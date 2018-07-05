@@ -7,7 +7,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [AI-Front-201803-1522647735580.pdf](doc/AI-Front-201803-1522647735580.pdf)
 * [Ceph分布式存储实战.pdf](doc/Ceph分布式存储实战.pdf)
 * [CloudNativeLandscape_v0.9.5_cncf.pdf](doc/CloudNativeLandscape_v0.9.5_cncf.pdf)
-* [Dubbo视频教程共享.pdf](doc/Dubbo视频教程共享.pdf)
 * [Google-内部是如何实施大规模前端项目的.pdf](doc/Google-内部是如何实施大规模前端项目的.pdf)
 * [Java-并发编程实战(中文版).pdf](doc/Java-并发编程实战(中文版).pdf)
 * [Java多线程编程实战指南-设计模式篇.pdf](doc/Java多线程编程实战指南-设计模式篇.pdf)
