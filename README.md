@@ -1,5 +1,4 @@
-# e-books
-IT technical related e-books and PPT materials
+IT technical related e-books and PPT information, continuous updating.
 
 * [1-6-当当架构平台化之道-张亮.pdf](doc/1-6-当当架构平台化之道-张亮.pdf)
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
