@@ -115,6 +115,16 @@ IT technical related e-books and PPT information, continuous updating.
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
 
+# 微信小程序
+* [StuQ《Node.js微信开发》课程文档.pdf](doc/StuQ《Node.js微信开发》课程文档.pdf)
+* [ZanUI-微信小程序中文文档.pdf](doc/ZanUI-微信小程序中文文档.pdf)
+* [微信小程序大全.pdf](doc/微信小程序大全.pdf)
+* [微信小程序工具文档.pdf](doc/微信小程序工具文档.pdf)
+* [微信小程序简易教程.pdf](doc/微信小程序简易教程.pdf)
+* [微信小程序框架文档.pdf](doc/微信小程序框架文档.pdf)
+* [微信小程序组件文档.pdf](doc/微信小程序组件文档.pdf)
+
+# 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
 * [《当你的团队还支撑不起梦想时》.pdf](doc/《当你的团队还支撑不起梦想时》.pdf)
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
