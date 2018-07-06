@@ -102,6 +102,15 @@ IT technical related e-books and PPT information, continuous updating.
 
 # Node.js
 * [探究-Node.js-的服务端之路.pdf](doc/探究-Node.js-的服务端之路.pdf)
+* [Node-In-Action-Node.js实战-英文版.pdf](doc/Node-In-Action-Node.js实战-英文版.pdf)
+* [Node.js-包教不包会.pdf](doc/Node.js-包教不包会.pdf)
+* [Node.js-实战.pdf](doc/Node.js-实战.pdf)
+* [Node.js-调试指南.pdf](doc/Node.js-调试指南.pdf)
+* [Node.js入门教程.pdf](doc/Node.js入门教程.pdf)
+* [Nodejs-API-中文文档.pdf](doc/Nodejs-API-中文文档.pdf)
+* [nodejs-stream-手册.pdf](doc/nodejs-stream-手册.pdf)
+* [nodejs-基础教程.pdf](doc/nodejs-基础教程.pdf)
+* [nodejs中文文档.pdf](doc/nodejs中文文档.pdf)
 
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
