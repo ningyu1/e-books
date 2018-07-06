@@ -49,13 +49,13 @@ IT technical related e-books and PPT information, continuous updating.
 * [《携程多机房微服务灰度发布》.pdf](doc/《携程多机房微服务灰度发布》.pdf)
 * [《企业基于微服务的应用架构设计范式》.pdf](doc/《企业基于微服务的应用架构设计范式》.pdf)
 * [《构建微服务体系下的全链路监控系统》.pdf](doc/《构建微服务体系下的全链路监控系统》.pdf)
-* [TccForRestApi.pdf](doc/TccForRestApi.pdf)
 
 # 分布式事务
 * [[分布式事务]支付宝分布式事务设计草案.doc](doc/[[分布式事务]]支付宝分布式事务设计草案.doc)
 * [[分布式事务]微服务架构分布式事务解决方案.pdf](doc/[[分布式事务]]微服务架构分布式事务解决方案.pdf)
 * [[分布式事务]LCN分布式事务.pptx](doc/[分布式事务]LCN分布式事务.pptx)
 * [大规模SOA系统中的分布式事务处理_程立_SD2C2008.pdf](doc/大规模SOA系统中的分布式事务处理_程立_SD2C2008.pdf)
+* [TccForRestApi.pdf](doc/TccForRestApi.pdf)
 
 # MySQL
 * [高性能Mysql.pdf](doc/高性能Mysql.pdf)
@@ -82,11 +82,11 @@ IT technical related e-books and PPT information, continuous updating.
 # Redis
 * [新浪Redis运维实践.pdf](doc/新浪Redis运维实践.pdf)
 * [《携程-redis-多数据中心实践》.pdf](doc/《携程-redis-多数据中心实践》.pdf)
-* [StackExchange.Redis 中文使用文档.pdf](doc/StackExchange.Redis 中文使用文档.pdf)
-* [Redisson 官方文档中文翻译.pdf](doc/Redisson 官方文档中文翻译.pdf)
+* [StackExchange.Redis-中文使用文档.pdf](doc/StackExchange.Redis 中文使用文档.pdf)
+* [Redisson-官方文档中文翻译.pdf](doc/Redisson 官方文档中文翻译.pdf)
 * [StackExchange.Redis文档翻译.pdf](doc/StackExchange.Redis文档翻译.pdf)
 * [Redis开发运维实践指南.pdf](doc/Redis开发运维实践指南.pdf)
-* [The Little Redis Book中文版.pdf](doc/The Little Redis Book中文版.pdf)
+* [The-Little-Redis-Book中文版.pdf](doc/The Little Redis Book中文版.pdf)
 
 # SaaS架构设计
 * [互联网时代的软件革命-SaaS架构设计.pdf](doc/互联网时代的软件革命-SaaS架构设计.pdf)
