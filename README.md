@@ -135,6 +135,14 @@ IT technical related e-books and PPT information, continuous updating.
 * [微信小程序框架文档.pdf](doc/微信小程序框架文档.pdf)
 * [微信小程序组件文档.pdf](doc/微信小程序组件文档.pdf)
 
+# 面试相关
+* [PHPer面试指南.pdf](doc/PHPer面试指南.pdf)
+* [Java_Android笔试、面试知识整理.pdf](doc/Java_Android笔试、面试知识整理.pdf)
+* [笔试面试知识整理.pdf](doc/笔试面试知识整理.pdf)
+* [技术面试需要掌握的基础知识整理.pdf](doc/技术面试需要掌握的基础知识整理.pdf)
+* [Java面试笔记.pdf](doc/Java面试笔记.pdf)
+* [编程之法-面试和算法心得.pdf](doc/编程之法-面试和算法心得.pdf)
+
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
 * [《当你的团队还支撑不起梦想时》.pdf](doc/《当你的团队还支撑不起梦想时》.pdf)
