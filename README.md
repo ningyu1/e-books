@@ -48,6 +48,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [AI-Front-201803-1522647735580.pdf](doc/AI-Front-201803-1522647735580.pdf)
 * [大数据时代.pdf](doc/大数据时代.pdf)
 * [《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf](doc/《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf)
+* [面向程序员的数据挖掘指南.pdf](doc/面向程序员的数据挖掘指南.pdf)
 
 # 微服务 && CNCF
 * [构建微服务体系下的全链路监控系统.pdf](doc/构建微服务体系下的全链路监控系统.pdf)
@@ -96,6 +97,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [nodejs-stream-手册.pdf](doc/nodejs-stream-手册.pdf)
 * [nodejs-基础教程.pdf](doc/nodejs-基础教程.pdf)
 * [nodejs中文文档.pdf](doc/nodejs中文文档.pdf)
+* [解读node.js-api文档.pdf](doc/解读node.js-api文档.pdf)
 * [七天学会NodeJS.pdf](doc/七天学会NodeJS.pdf)
 * [学习AngularJS-1.x.pdf](doc/学习AngularJS-1.x.pdf)
 * [前端手册.pdf](doc/前端手册.pdf)
@@ -137,6 +139,32 @@ IT technical related e-books and PPT information, continuous updating.
 # SaaS架构设计
 * [互联网时代的软件革命-SaaS架构设计.pdf](doc/互联网时代的软件革命-SaaS架构设计.pdf)
 
+# Python
+* [SICP-Python描述中文版.pdf](doc/SICP-Python描述中文版.pdf)
+* [pyeco翻译-Python开发生态环境简介.pdf](doc/pyeco翻译-Python开发生态环境简介.pdf)
+* [笨办法学Python续中文版-Learn-More-Python3-The-Hard-Way.pdf](doc/笨办法学Python续中文版-Learn-More-Python3-The-Hard-Way.pdf)
+* [FullSpeed-Python-进击的Python-中文版.pdf](doc/FullSpeed-Python-进击的Python-中文版.pdf)
+* [FullSpeed-Python-英文版.pdf](doc/FullSpeed-Python-英文版.pdf)
+* [PythonCookbook中文版第三版《PythonCookbook》3rd-Edition-翻译.pdf](doc/PythonCookbook中文版第三版《PythonCookbook》3rd-Edition-翻译.pdf)
+* [Python入门指南-Python2.7官方教程.pdf](doc/Python入门指南-Python2.7官方教程.pdf)
+* [【译】Python-Lex-Yacc手册.pdf](doc/【译】Python-Lex-Yacc手册.pdf)
+* [Sanic使用教程Sanic-For-Pythoneer.pdf](doc/Sanic使用教程Sanic-For-Pythoneer.pdf)
+* [Python-Testing-Tutorial-英文.pdf](doc/Python-Testing-Tutorial-英文.pdf)
+* [Think-Python第二版中文翻译版本.pdf](doc/Think-Python第二版中文翻译版本.pdf)
+* [Python3-Module-Examples-英文版.pdf](doc/Python3-Module-Examples-英文版.pdf)
+* [UCB-CS61a-教材：SICP-Python.pdf](doc/UCB-CS61a-教材：SICP-Python.pdf)
+* [機器學習：使用Python.pdf](doc/機器學習：使用Python.pdf)
+* [Python-One-to-Million-中文版.pdf](doc/Python-One-to-Million-中文版.pdf)
+* [A-Byte-of-Python-英文.pdf](doc/A-Byte-of-Python-英文.pdf)
+* [Stack-Overflow-About-Python-中文.pdf](doc/Stack-Overflow-About-Python-中文.pdf)
+* [Python面试题.pdf](doc/Python面试题.pdf)
+* [各种算法的Python实现方案-Python-and-Algorith.pdf](doc/各种算法的Python实现方案-Python-and-Algorith.pdf)
+* [Python之旅.pdf](doc/Python之旅.pdf)
+* [简明Python教程-V4.0c-2017-译本.pdf](doc/简明Python教程-V4.0c-2017-译本.pdf)
+* [简明Python教程-V1.2版.pdf](doc/简明Python教程-V1.2版.pdf)
+* [老齐零基础学Python.pdf](doc/老齐零基础学Python.pdf)
+* [Python进阶Intermediate-Python-中文版.pdf](doc/Python进阶Intermediate-Python-中文版.pdf)
+
 # Java
 * [阿里巴巴Java开发手册v1.2.0.pdf](doc/阿里巴巴Java开发手册v1.2.0.pdf)
 * [Java-并发编程实战-中文版.pdf](doc/Java-并发编程实战-中文版.pdf)
@@ -168,6 +196,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [Java面试笔记.pdf](doc/Java面试笔记.pdf)
 * [编程之法-面试和算法心得.pdf](doc/编程之法-面试和算法心得.pdf)
 * [系统设计面试题精选.pdf](doc/系统设计面试题精选.pdf)
+* [Python面试题.pdf](doc/Python面试题.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
