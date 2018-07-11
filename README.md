@@ -96,7 +96,20 @@ IT technical related e-books and PPT information, continuous updating.
 * [nodejs-stream-手册.pdf](doc/nodejs-stream-手册.pdf)
 * [nodejs-基础教程.pdf](doc/nodejs-基础教程.pdf)
 * [nodejs中文文档.pdf](doc/nodejs中文文档.pdf)
+* [七天学会NodeJS.pdf](doc/七天学会NodeJS.pdf)
 * [学习AngularJS-1.x.pdf](doc/学习AngularJS-1.x.pdf)
+* [前端手册.pdf](doc/前端手册.pdf)
+* [前端开发者手册.pdf](doc/前端开发者手册.pdf)
+* [前端开发规范手册.pdf](doc/前端开发规范手册.pdf)
+* [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
+* [你不懂JS：ES6与未来.pdf](doc/你不懂JS：ES6与未来.pdf)
+* [你不懂JS：this与对象原型.pdf](doc/你不懂JS：this与对象原型.pdf)
+* [你不懂JS：类型与文法.pdf](doc/你不懂JS：类型与文法.pdf)
+* [你不懂JS：入门与进阶.pdf](doc/你不懂JS：入门与进阶.pdf)
+* [你不懂JS：异步与性能.pdf](doc/你不懂JS：异步与性能.pdf)
+* [你不懂JS：作用域与闭.pdf](doc/你不懂JS：作用域与闭.pdf)
+* [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
+
 
 # 前后端分离
 * [移动端无痕埋点的架构及实践.pdf](doc/移动端无痕埋点的架构及实践.pdf)
@@ -132,6 +145,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [Netty实战.pdf](doc/Netty实战.pdf)
 * [《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf](doc/《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf)
 * [Java特种兵.pdf](doc/Java特种兵.pdf)
+* [设计模式Java版本.pdf](doc/设计模式Java版本.pdf)
 
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
