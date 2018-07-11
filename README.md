@@ -59,6 +59,9 @@ IT technical related e-books and PPT information, continuous updating.
 * [《携程多机房微服务灰度发布》.pdf](doc/《携程多机房微服务灰度发布》.pdf)
 * [《企业基于微服务的应用架构设计范式》.pdf](doc/《企业基于微服务的应用架构设计范式》.pdf)
 * [《构建微服务体系下的全链路监控系统》.pdf](doc/《构建微服务体系下的全链路监控系统》.pdf)
+* [微服务学习笔记.pdf](doc/微服务学习笔记.pdf)
+* [深入理解Neutron-OpenStack网络实现.pdf](doc/深入理解Neutron-OpenStack网络实现.pdf)
+* [使用Spring Cloud与Docker实战微服务.pdf](doc/使用Spring Cloud与Docker实战微服务.pdf)
 
 # 分布式事务
 * [[分布式事务]支付宝分布式事务设计草案.doc](doc/[[分布式事务]]支付宝分布式事务设计草案.doc)
@@ -81,6 +84,19 @@ IT technical related e-books and PPT information, continuous updating.
 * [《经典SQL优化实例剖析》公开课PPT.pdf](doc/《经典SQL优化实例剖析》公开课PPT.pdf)
 * [MySQL技术内幕-第4版.pdf](doc/MySQL技术内幕-第4版.pdf)
 * [MySQL高可用-多种方案.pdf](doc/MySQL高可用-多种方案.pdf)
+
+# Node.js && 前端
+* [探究-Node.js-的服务端之路.pdf](doc/探究-Node.js-的服务端之路.pdf)
+* [Node-In-Action-Node.js实战-英文版.pdf](doc/Node-In-Action-Node.js实战-英文版.pdf)
+* [Node.js-包教不包会.pdf](doc/Node.js-包教不包会.pdf)
+* [Node.js-实战.pdf](doc/Node.js-实战.pdf)
+* [Node.js-调试指南.pdf](doc/Node.js-调试指南.pdf)
+* [Node.js入门教程.pdf](doc/Node.js入门教程.pdf)
+* [Nodejs-API-中文文档.pdf](doc/Nodejs-API-中文文档.pdf)
+* [nodejs-stream-手册.pdf](doc/nodejs-stream-手册.pdf)
+* [nodejs-基础教程.pdf](doc/nodejs-基础教程.pdf)
+* [nodejs中文文档.pdf](doc/nodejs中文文档.pdf)
+* [学习AngularJS-1.x.pdf](doc/学习AngularJS-1.x.pdf)
 
 # 前后端分离
 * [移动端无痕埋点的架构及实践.pdf](doc/移动端无痕埋点的架构及实践.pdf)
@@ -117,18 +133,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf](doc/《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf)
 * [Java特种兵.pdf](doc/Java特种兵.pdf)
 
-# Node.js
-* [探究-Node.js-的服务端之路.pdf](doc/探究-Node.js-的服务端之路.pdf)
-* [Node-In-Action-Node.js实战-英文版.pdf](doc/Node-In-Action-Node.js实战-英文版.pdf)
-* [Node.js-包教不包会.pdf](doc/Node.js-包教不包会.pdf)
-* [Node.js-实战.pdf](doc/Node.js-实战.pdf)
-* [Node.js-调试指南.pdf](doc/Node.js-调试指南.pdf)
-* [Node.js入门教程.pdf](doc/Node.js入门教程.pdf)
-* [Nodejs-API-中文文档.pdf](doc/Nodejs-API-中文文档.pdf)
-* [nodejs-stream-手册.pdf](doc/nodejs-stream-手册.pdf)
-* [nodejs-基础教程.pdf](doc/nodejs-基础教程.pdf)
-* [nodejs中文文档.pdf](doc/nodejs中文文档.pdf)
-
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
 * [MQTT协议中文版.pdf](doc/MQTT协议中文版.pdf)
@@ -149,9 +153,11 @@ IT technical related e-books and PPT information, continuous updating.
 * [技术面试需要掌握的基础知识整理.pdf](doc/技术面试需要掌握的基础知识整理.pdf)
 * [Java面试笔记.pdf](doc/Java面试笔记.pdf)
 * [编程之法-面试和算法心得.pdf](doc/编程之法-面试和算法心得.pdf)
+* [系统设计面试题精选.pdf](doc/系统设计面试题精选.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
 * [《当你的团队还支撑不起梦想时》.pdf](doc/《当你的团队还支撑不起梦想时》.pdf)
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
+* [知识共享协议FAQ非官方翻译.pdf](doc/知识共享协议FAQ非官方翻译.pdf)
 
