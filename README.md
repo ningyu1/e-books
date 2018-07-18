@@ -182,6 +182,11 @@ IT technical related e-books and PPT information, continuous updating.
 # Ruby
 * [Puma英文文档.pdf](doc/Puma英文文档.pdf)
 
+# Linux
+* [完全用GNU_Linux工作-繁体.pdf](doc/完全用GNU_Linux工作-繁体.pdf)
+* [大学霸Kali_Linux安全渗透教程.pdf](doc/大学霸Kali_Linux安全渗透教程.pdf)
+* [Linux性能调优指南.pdf](doc/Linux性能调优指南.pdf)
+
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
 * [MQTT协议中文版.pdf](doc/MQTT协议中文版.pdf)
