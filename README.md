@@ -178,6 +178,8 @@ IT technical related e-books and PPT information, continuous updating.
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
 * [MQTT协议中文版.pdf](doc/MQTT协议中文版.pdf)
+* [RabbitMQ中文文档.pdf](doc/RabbitMQ中文文档.pdf)
+* [ZeroMQ指南.pdf](doc/ZeroMQ指南.pdf)
 
 # 微信小程序
 * [StuQ《Node.js微信开发》课程文档.pdf](doc/StuQ《Node.js微信开发》课程文档.pdf)
