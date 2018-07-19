@@ -50,6 +50,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf](doc/《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf)
 * [面向程序员的数据挖掘指南.pdf](doc/面向程序员的数据挖掘指南.pdf)
 * [Apache-Phoenix使用文档-英文.pdf](doc/Apache-Phoenix使用文档-英文.pdf)
+* [神经网络与深度学习.pdf](doc/神经网络与深度学习.pdf)
 
 # 微服务 && CNCF
 * [构建微服务体系下的全链路监控系统.pdf](doc/构建微服务体系下的全链路监控系统.pdf)
@@ -116,6 +117,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [前端手册.pdf](doc/前端手册.pdf)
 * [前端开发者手册.pdf](doc/前端开发者手册.pdf)
 * [前端开发规范手册.pdf](doc/前端开发规范手册.pdf)
+* [Rangle's_Angular2_Training_Book_英文.pdf](doc/Rangle's_Angular2_Training_Book_英文.pdf)
+* [百度San框架教程.pdf](doc/百度San框架教程.pdf)
 
 # 前后端分离
 * [蘑菇街前后端分离实践.pdf](doc/蘑菇街前后端分离实践.pdf)
@@ -144,6 +147,9 @@ IT technical related e-books and PPT information, continuous updating.
 # SaaS架构设计
 * [互联网时代的软件革命-SaaS架构设计.pdf](doc/互联网时代的软件革命-SaaS架构设计.pdf)
 
+# Nginx
+* [Nginx中文官方文档.pdf](doc/Nginx中文官方文档.pdf)
+
 # Python
 * [SICP-Python描述中文版.pdf](doc/SICP-Python描述中文版.pdf)
 * [pyeco翻译-Python开发生态环境简介.pdf](doc/pyeco翻译-Python开发生态环境简介.pdf)
@@ -170,6 +176,9 @@ IT technical related e-books and PPT information, continuous updating.
 * [老齐零基础学Python.pdf](doc/老齐零基础学Python.pdf)
 * [Python进阶Intermediate-Python-中文版.pdf](doc/Python进阶Intermediate-Python-中文版.pdf)
 
+# Spring
+* [Spring_MVC_4.2.4_RELEASE_中文文档.pdf](doc/Spring_MVC_4.2.4_RELEASE_中文文档.pdf)
+
 # Java
 * [阿里巴巴Java开发手册v1.2.0.pdf](doc/阿里巴巴Java开发手册v1.2.0.pdf)
 * [Java-并发编程实战-中文版.pdf](doc/Java-并发编程实战-中文版.pdf)
@@ -183,6 +192,9 @@ IT technical related e-books and PPT information, continuous updating.
 
 # Ruby
 * [Puma英文文档.pdf](doc/Puma英文文档.pdf)
+
+# Go
+* [Building_Web_Apps_with_Go_英文.pdf](doc/Building_Web_Apps_with_Go_英文.pdf)
 
 # Linux
 * [完全用GNU_Linux工作-繁体.pdf](doc/完全用GNU_Linux工作-繁体.pdf)
@@ -213,6 +225,9 @@ IT technical related e-books and PPT information, continuous updating.
 * [编程之法-面试和算法心得.pdf](doc/编程之法-面试和算法心得.pdf)
 * [系统设计面试题精选.pdf](doc/系统设计面试题精选.pdf)
 * [Python面试题.pdf](doc/Python面试题.pdf)
+
+# 工具
+* [像IDE一样使用vim.pdf](doc/像IDE一样使用vim.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
