@@ -101,9 +101,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [解读node.js-api文档.pdf](doc/解读node.js-api文档.pdf)
 * [七天学会NodeJS.pdf](doc/七天学会NodeJS.pdf)
 * [学习AngularJS-1.x.pdf](doc/学习AngularJS-1.x.pdf)
-* [前端手册.pdf](doc/前端手册.pdf)
-* [前端开发者手册.pdf](doc/前端开发者手册.pdf)
-* [前端开发规范手册.pdf](doc/前端开发规范手册.pdf)
 * [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
 * [你不懂JS：ES6与未来.pdf](doc/你不懂JS：ES6与未来.pdf)
 * [你不懂JS：this与对象原型.pdf](doc/你不懂JS：this与对象原型.pdf)
@@ -114,6 +111,11 @@ IT technical related e-books and PPT information, continuous updating.
 * [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
 * [VuePress中文-英文文档.pdf](doc/VuePress中文-英文文档.pdf)
 
+# 前端
+* [前端工程师手册.pdf](doc/前端工程师手册.pdf)
+* [前端手册.pdf](doc/前端手册.pdf)
+* [前端开发者手册.pdf](doc/前端开发者手册.pdf)
+* [前端开发规范手册.pdf](doc/前端开发规范手册.pdf)
 
 # 前后端分离
 * [蘑菇街前后端分离实践.pdf](doc/蘑菇街前后端分离实践.pdf)
