@@ -175,6 +175,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [简明Python教程-V1.2版.pdf](doc/简明Python教程-V1.2版.pdf)
 * [老齐零基础学Python.pdf](doc/老齐零基础学Python.pdf)
 * [Python进阶Intermediate-Python-中文版.pdf](doc/Python进阶Intermediate-Python-中文版.pdf)
+* [Jinja2英文文档.pdf](doc/Jinja2英文文档.pdf)
 
 # Spring
 * [Spring_MVC_4.2.4_RELEASE_中文文档.pdf](doc/Spring_MVC_4.2.4_RELEASE_中文文档.pdf)
@@ -228,6 +229,7 @@ IT technical related e-books and PPT information, continuous updating.
 
 # 工具
 * [像IDE一样使用vim.pdf](doc/像IDE一样使用vim.pdf)
+* [Pro_Git中文版_第二版.pdf](doc/Pro_Git中文版_第二版.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
