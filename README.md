@@ -88,7 +88,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [MySQL技术内幕-第4版.pdf](doc/MySQL技术内幕-第4版.pdf)
 * [MySQL高可用-多种方案.pdf](doc/MySQL高可用-多种方案.pdf)
 
-# Node.js && 前端
+# Node.js
 * [探究-Node.js-的服务端之路.pdf](doc/探究-Node.js-的服务端之路.pdf)
 * [Node-In-Action-Node.js实战-英文版.pdf](doc/Node-In-Action-Node.js实战-英文版.pdf)
 * [Node.js-包教不包会.pdf](doc/Node.js-包教不包会.pdf)
@@ -119,6 +119,11 @@ IT technical related e-books and PPT information, continuous updating.
 * [前端开发规范手册.pdf](doc/前端开发规范手册.pdf)
 * [Rangle's_Angular2_Training_Book_英文.pdf](doc/Rangle's_Angular2_Training_Book_英文.pdf)
 * [百度San框架教程.pdf](doc/百度San框架教程.pdf)
+* [FIS3_为你定制的前端工程构建工具.pdf](doc/FIS3_为你定制的前端工程构建工具.pdf)
+* [Hprose_for_HTML5用户手册.pdf](doc/Hprose_for_HTML5用户手册.pdf)
+* [李炎恢HTML_CSS教程.pdf](doc/李炎恢HTML_CSS教程.pdf)
+* [Highcharts_Highstock_Highmaps使用教程.pdf](doc/Highcharts_Highstock_Highmaps使用教程.pdf)
+* [廖雪峰JavaScript教程.pdf](doc/廖雪峰JavaScript教程.pdf)
 
 # 前后端分离
 * [蘑菇街前后端分离实践.pdf](doc/蘑菇街前后端分离实践.pdf)
@@ -176,6 +181,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [老齐零基础学Python.pdf](doc/老齐零基础学Python.pdf)
 * [Python进阶Intermediate-Python-中文版.pdf](doc/Python进阶Intermediate-Python-中文版.pdf)
 * [Jinja2英文文档.pdf](doc/Jinja2英文文档.pdf)
+* [廖雪峰Python3教程.pdf](doc/廖雪峰Python3教程.pdf)
+* [廖雪峰Python2.7教程.pdf](doc/廖雪峰Python2.7教程.pdf)
 
 # Spring
 * [Spring_MVC_4.2.4_RELEASE_中文文档.pdf](doc/Spring_MVC_4.2.4_RELEASE_中文文档.pdf)
@@ -196,11 +203,18 @@ IT technical related e-books and PPT information, continuous updating.
 
 # Go
 * [Building_Web_Apps_with_Go_英文.pdf](doc/Building_Web_Apps_with_Go_英文.pdf)
+* [GO-INI英文文档.pdf](doc/GO-INI英文文档.pdf)
+* [GO-INI中文文档.pdf](doc/GO-INI中文文档.pdf)
+
+# PHP
+* [Hprose_for_PHP用户手册.pdf](doc/Hprose_for_PHP用户手册.pdf)
 
 # Linux
 * [完全用GNU_Linux工作-繁体.pdf](doc/完全用GNU_Linux工作-繁体.pdf)
 * [大学霸Kali_Linux安全渗透教程.pdf](doc/大学霸Kali_Linux安全渗透教程.pdf)
 * [Linux性能调优指南.pdf](doc/Linux性能调优指南.pdf)
+* [鸟哥的Linux私房菜：服务器架设篇_第三版.pdf](doc/鸟哥的Linux私房菜：服务器架设篇_第三版.pdf)
+* [鸟哥的Linux私房菜：基础学习篇_第四版.pdf](doc/鸟哥的Linux私房菜：基础学习篇_第四版.pdf)
 
 # MQ
 * [rocketMq官方文档.pdf](doc/rocketMq官方文档.pdf)
@@ -236,4 +250,5 @@ IT technical related e-books and PPT information, continuous updating.
 * [《当你的团队还支撑不起梦想时》.pdf](doc/《当你的团队还支撑不起梦想时》.pdf)
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
 * [知识共享协议FAQ非官方翻译.pdf](doc/知识共享协议FAQ非官方翻译.pdf)
+* [WordPress_The_Right_Way_多语版.pdf](doc/WordPress_The_Right_Way_多语版.pdf)
 
