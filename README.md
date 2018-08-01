@@ -205,6 +205,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [Building_Web_Apps_with_Go_英文.pdf](doc/Building_Web_Apps_with_Go_英文.pdf)
 * [GO-INI英文文档.pdf](doc/GO-INI英文文档.pdf)
 * [GO-INI中文文档.pdf](doc/GO-INI中文文档.pdf)
+* [gorm文档_英文.pdf](doc/gorm文档_英文.pdf)
+* 
 
 # PHP
 * [Hprose_for_PHP用户手册.pdf](doc/Hprose_for_PHP用户手册.pdf)
@@ -244,6 +246,9 @@ IT technical related e-books and PPT information, continuous updating.
 # 工具
 * [像IDE一样使用vim.pdf](doc/像IDE一样使用vim.pdf)
 * [Pro_Git中文版_第二版.pdf](doc/Pro_Git中文版_第二版.pdf)
+* [SapceVim中文文档.pdf](doc/SapceVim中文文档.pdf)
+* [SpaceVim英文文档.pdf](doc/SpaceVim英文文档.pdf)
+* 
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
@@ -251,4 +256,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
 * [知识共享协议FAQ非官方翻译.pdf](doc/知识共享协议FAQ非官方翻译.pdf)
 * [WordPress_The_Right_Way_多语版.pdf](doc/WordPress_The_Right_Way_多语版.pdf)
+* [http2_explained_英文.pdf](doc/http2_explained_英文.pdf)
+* [97_Things_Every_Programmer_Should Know_英文.pdf](doc/97_Things_Every_Programmer_Should Know_英文.pdf)
 
