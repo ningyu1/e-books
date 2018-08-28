@@ -1,5 +1,16 @@
 IT technical related e-books and PPT information, continuous updating.
 
+# Aliware_Open_Source
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴杜恒 - Secret_of_Eventual_Consistency_in_Apache_RocketMQ_with_No_Budget.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴杜恒 - Secret_of_Eventual_Consistency_in_Apache_RocketMQ_with_No_Budget.pdf)
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴子矜 - Sentinel分布式系统下的流量防卫兵.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴子矜 - Sentinel分布式系统下的流量防卫兵.pdf)
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴冯嘉 - Apache_RocketMQ_Past_Now_and_Future.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴冯嘉 - Apache_RocketMQ_Past_Now_and_Future.pdf)
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴李维军 - Apache_RocketMQ_持续集成.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴李维军 - Apache_RocketMQ_持续集成.pdf)
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴慕义 - Nacos 启航，发布第一个版本, 云原生时代助力用户微服务平台建设.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴慕义 - Nacos 启航，发布第一个版本, 云原生时代助力用户微服务平台建设.pdf)
+* [Aliware_Open_Source_深圳站_PPT_乐信康彬 - 乐信的微服务之路.pdf](doc/Aliware_Open_Source_深圳站_PPT_乐信康彬 - 乐信的微服务之路.pdf)
+* [Aliware_Open_Source_深圳站_PPT_微众银行陈广胜 - Building_a_Messaging_Service_with_Apache_RocketMQ.pdf](doc/Aliware_Open_Source_深圳站_PPT_微众银行陈广胜 - Building_a_Messaging_Service_with_Apache_RocketMQ.pdf)
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴王鑫 - Stream_Processing_with_Apache_RocketMQ.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴王鑫 - Stream_Processing_with_Apache_RocketMQ.pdf)
+* [Aliware_Open_Source_深圳站_PPT_阿里巴巴陈志轩 - Dubbo开源现状与2.7规划.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴陈志轩 - Dubbo开源现状与2.7规划.pdf)
+
 # Docker
 * [《基于云平台的-Docker-多租户安全》.pdf](doc/《基于云平台的-Docker-多租户安全》.pdf)
 * [Continuous_Integration_and_Deployment_with_Rancher_and_Docker.pdf](doc/Continuous_Integration_and_Deployment_with_Rancher_and_Docker.pdf)
