@@ -1,6 +1,11 @@
 IT technical related e-books and PPT information, continuous updating.
 
 # Aliware_Open_Source
+* [Aliware_Open_Source_成都站_PPT_ 朱勇_千臂_How_to_Involve_in_Dubbo_Community.pdf](doc/Aliware_Open_Source_成都站_PPT_ 朱勇_千臂_How_to_Involve_in_Dubbo_Community.pdf)
+* [Aliware_Open_Source_成都站_PPT_ 邢学超_于怀_Nacos0.2发布计划.pdf](doc/Aliware_Open_Source_成都站_PPT_ 邢学超_于怀_Nacos0.2发布计划.pdf)
+* [Aliware_Open_Source_成都站_PPT_ 李云_至简_Dubbo_Mesh_Service_Mesh实践与探索.pdf](doc/Aliware_Open_Source_成都站_PPT_ 李云_至简_Dubbo_Mesh_Service_Mesh实践与探索.pdf)
+* [Aliware_Open_Source_成都站_PPT_ 林佳梁_子矜_Sentinel_为Dubbo保驾护航.pdf](doc/Aliware_Open_Source_成都站_PPT_ 林佳梁_子矜_Sentinel_为Dubbo保驾护航.pdf)
+* [Aliware_Open_Source_成都站_PPT_ 庄旻轩_子观_Dubbo开源现状与2.7规划.pdf](doc/Aliware_Open_Source_成都站_PPT_ 庄旻轩_子观_Dubbo开源现状与2.7规划.pdf)
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴杜恒_Secret_of_Eventual_Consistency_in_Apache_RocketMQ_with_No_Budget.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴杜恒_Secret_of_Eventual_Consistency_in_Apache_RocketMQ_with_No_Budget.pdf)
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴子矜_Sentinel分布式系统下的流量防卫兵.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴子矜_Sentinel分布式系统下的流量防卫兵.pdf)
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴冯嘉_Apache_RocketMQ_Past_Now_and_Future.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴冯嘉_Apache_RocketMQ_Past_Now_and_Future.pdf)
