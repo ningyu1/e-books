@@ -69,7 +69,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [神经网络与深度学习.pdf](doc/神经网络与深度学习.pdf)
 * [机器学习实战_Machine_Learning_in_Action.pdf](doc/机器学习实战_Machine_Learning_in_Action.pdf)
 * [TensorFlow官方文档中文版.pdf](doc/TensorFlow官方文档中文版.pdf)
-* 
 
 # 微服务 && CNCF
 * [构建微服务体系下的全链路监控系统.pdf](doc/构建微服务体系下的全链路监控系统.pdf)
@@ -294,6 +293,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [知识共享协议FAQ非官方翻译.pdf](doc/知识共享协议FAQ非官方翻译.pdf)
 * [WordPress_The_Right_Way_多语版.pdf](doc/WordPress_The_Right_Way_多语版.pdf)
 * [http2_explained_英文.pdf](doc/http2_explained_英文.pdf)
-* [97_Things_Every_Programmer_Should Know_英文.pdf](doc/97_Things_Every_Programmer_Should Know_英文.pdf)
+* [97_Things_Every_Programmer_Should_Know_英文.pdf](doc/97_Things_Every_Programmer_Should_Know_英文.pdf)
 * [Open_Graphics_Library_OpenGL_教程.pdf](doc/OpenGL教程.pdf)
 
