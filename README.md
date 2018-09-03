@@ -268,7 +268,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [Pro_Git中文版_第二版.pdf](doc/Pro_Git中文版_第二版.pdf)
 * [SapceVim中文文档.pdf](doc/SapceVim中文文档.pdf)
 * [SpaceVim英文文档.pdf](doc/SpaceVim英文文档.pdf)
-* 
+* [Play框架中文文档.pdf](doc/Play框架中文文档.pdf)
+* [ELK_Stack_中文指南.pdf](doc/ELK_Stack_中文指南.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
