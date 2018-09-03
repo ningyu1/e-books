@@ -67,6 +67,9 @@ IT technical related e-books and PPT information, continuous updating.
 * [面向程序员的数据挖掘指南.pdf](doc/面向程序员的数据挖掘指南.pdf)
 * [Apache-Phoenix使用文档-英文.pdf](doc/Apache-Phoenix使用文档-英文.pdf)
 * [神经网络与深度学习.pdf](doc/神经网络与深度学习.pdf)
+* [机器学习实战_Machine_Learning_in_Action.pdf](doc/机器学习实战_Machine_Learning_in_Action.pdf)
+* [TensorFlow官方文档中文版.pdf](doc/TensorFlow官方文档中文版.pdf)
+* 
 
 # 微服务 && CNCF
 * [构建微服务体系下的全链路监控系统.pdf](doc/构建微服务体系下的全链路监控系统.pdf)
@@ -170,6 +173,7 @@ IT technical related e-books and PPT information, continuous updating.
 
 # Nginx
 * [Nginx中文官方文档.pdf](doc/Nginx中文官方文档.pdf)
+* [Nginx从入门到精通.pdf](doc/Nginx从入门到精通.pdf)
 
 # Python
 * [SICP-Python描述中文版.pdf](doc/SICP-Python描述中文版.pdf)
@@ -207,12 +211,17 @@ IT technical related e-books and PPT information, continuous updating.
 * [阿里巴巴Java开发手册v1.2.0.pdf](doc/阿里巴巴Java开发手册v1.2.0.pdf)
 * [Java-并发编程实战-中文版.pdf](doc/Java-并发编程实战-中文版.pdf)
 * [Java多线程编程实战指南-设计模式篇.pdf](doc/Java多线程编程实战指南-设计模式篇.pdf)
-* [nio.pdf](doc/nio.pdf)
-* [Netty实战.pdf](doc/Netty实战.pdf)
 * [《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf](doc/《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf)
 * [Java特种兵.pdf](doc/Java特种兵.pdf)
 * [设计模式Java版本.pdf](doc/设计模式Java版本.pdf)
 * [MyBatis3.4参考文档中文版.pdf](doc/MyBatis3.4参考文档中文版.pdf)
+
+# 网络编程
+* [nio.pdf](doc/nio.pdf)
+* [Netty实战.pdf](doc/Netty实战.pdf)
+* [Apache_MINA_2_用户指南.pdf](doc/Apache_MINA_2_用户指南.pdf)
+* [Netty_4.x_用户指南.pdf](doc/Netty_4.x_用户指南.pdf)
+* [Netty实战_精髓.pdf](doc/Netty实战_精髓.pdf)
 
 # Ruby
 * [Puma英文文档.pdf](doc/Puma英文文档.pdf)
@@ -222,7 +231,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [GO-INI英文文档.pdf](doc/GO-INI英文文档.pdf)
 * [GO-INI中文文档.pdf](doc/GO-INI中文文档.pdf)
 * [gorm文档_英文.pdf](doc/gorm文档_英文.pdf)
-* 
 
 # PHP
 * [Hprose_for_PHP用户手册.pdf](doc/Hprose_for_PHP用户手册.pdf)
@@ -270,6 +278,14 @@ IT technical related e-books and PPT information, continuous updating.
 * [SpaceVim英文文档.pdf](doc/SpaceVim英文文档.pdf)
 * [Play框架中文文档.pdf](doc/Play框架中文文档.pdf)
 * [ELK_Stack_中文指南.pdf](doc/ELK_Stack_中文指南.pdf)
+* [Web远程调试工具_Weinre入门手册.pdf](doc/Weinre入门手册.pdf)
+
+# Markdown
+* [Markdown入门参考.pdf](doc/Markdown入门参考.pdf)
+* [markdown_preview_enhanced文档_简体中文版.pdf](doc/markdown_preview_enhanced文档_简体中文版.pdf)
+* [markdown_to_ebook_英文.pdf](doc/markdown_to_ebook_英文.pdf)
+* [Markdown简单的世界.pdf](doc/Markdown简单的世界.pdf)
+* [Markdown简明语法教程.pdf](doc/Markdown简明语法教程.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
@@ -279,4 +295,5 @@ IT technical related e-books and PPT information, continuous updating.
 * [WordPress_The_Right_Way_多语版.pdf](doc/WordPress_The_Right_Way_多语版.pdf)
 * [http2_explained_英文.pdf](doc/http2_explained_英文.pdf)
 * [97_Things_Every_Programmer_Should Know_英文.pdf](doc/97_Things_Every_Programmer_Should Know_英文.pdf)
+* [Open_Graphics_Library_OpenGL_教程.pdf](doc/OpenGL教程.pdf)
 
