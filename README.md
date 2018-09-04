@@ -16,16 +16,19 @@ IT technical related e-books and PPT information, continuous updating.
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴王鑫_Stream_Processing_with_Apache_RocketMQ.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴王鑫_Stream_Processing_with_Apache_RocketMQ.pdf)
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴陈志轩_Dubbo开源现状与2.7规划.pdf](doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴陈志轩_Dubbo开源现状与2.7规划.pdf)
 
-# Docker
-* [《基于云平台的-Docker-多租户安全》.pdf](doc/《基于云平台的-Docker-多租户安全》.pdf)
-* [Continuous_Integration_and_Deployment_with_Rancher_and_Docker.pdf](doc/Continuous_Integration_and_Deployment_with_Rancher_and_Docker.pdf)
-* [Docker技术入门与实战-[杨保华，戴王剑，曹亚仑编著][机械工业出版社][2015.01][299页].pdf](doc/Docker技术入门与实战-[杨保华，戴王剑，曹亚仑编著][机械工业出版社][2015.01][299页].pdf)
-* [第一本Docker书-澳特恩布尔著-P236.pdf](doc/第一本Docker书-澳特恩布尔著-P236.pdf)
-* [Docker入门白皮书.pdf](doc/Docker入门白皮书.pdf)
-* [深入Docker的资源管理.pdf](doc/深入Docker的资源管理.pdf)
-* [使用Docker建立Mysql集群.pdf](doc/使用Docker建立Mysql集群.pdf)
-* [Docker-应用：如何设计超大规模容器调度系统.pdf](doc/Docker-应用：如何设计超大规模容器调度系统.pdf)
-* [Ceph分布式存储实战.pdf](doc/Ceph分布式存储实战.pdf)
+# 中国HBase技术社区
+* [中国HBase技术社区第3届-MeetUp-杭州站_HBase技术交流分享-范欣欣.pptx](doc/中国HBase技术社区第3届-MeetUp-杭州站_HBase技术交流分享-范欣欣.pptx)
+* [中国HBase技术社区第3届-MeetUp-杭州站_云HBase冷存储介绍V3.pdf](doc/中国HBase技术社区第3届-MeetUp-杭州站_云HBase冷存储介绍V3.pdf)
+* [中国HBase技术社区第3届-MeetUp-杭州站_HBase在风控系统应用和高可用实践.pptx](doc/中国HBase技术社区第3届-MeetUp-杭州站_HBase在风控系统应用和高可用实践.pptx)
+
+# PingCAP-TiDB
+* [[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf](doc/[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf)
+* [[PingCAP-Meetup-SH-5.26]Using-MySQL-Distributed-Database-Architectures-Peter.pdf](doc/[PingCAP-Meetup-SH-5.26]Using-MySQL-Distributed-Database-Architectures-Peter.pdf)
+* [[PingCAP-Meetup-SH-5.26]沪江数据库转型之路.pdf](doc/[PingCAP-Meetup-SH-5.26]沪江数据库转型之路.pdf)
+* [[PingCAP-Meetup-SH-5.26]TiDB在易果集团的应用.pdf](doc/[PingCAP-Meetup-SH-5.26]TiDB在易果集团的应用.pdf)
+* [[PingCAP-Meetup-SH-5.26]TiDB在Ping++金融聚合支付下的实践0526.pdf](doc/[PingCAP-Meetup-SH-5.26]TiDB在Ping++金融聚合支付下的实践0526.pdf)
+* [[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf](doc/[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf)
+* [PingCAP---TiDB&TiKV-Introduction-OLTP.pdf](doc/PingCAP---TiDB&TiKV-Introduction-OLTP.pdf)
 
 # 架构实践
 * [唯品会供应链技术架构的实践.pdf](doc/唯品会供应链技术架构的实践.pdf)
@@ -40,15 +43,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [阿里亿级日活网关通道架构演进.pdf](doc/阿里亿级日活网关通道架构演进.pdf)
 * [互联网时代的传统IT架构.pdf](doc/互联网时代的传统IT架构.pdf)
 * [《海量数据推送服务——实时处理架构的演进》.pdf](doc/《海量数据推送服务——实时处理架构的演进》.pdf)
-
-# PingCAP-TiDB
-* [[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf](doc/[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf)
-* [[PingCAP-Meetup-SH-5.26]Using-MySQL-Distributed-Database-Architectures-Peter.pdf](doc/[PingCAP-Meetup-SH-5.26]Using-MySQL-Distributed-Database-Architectures-Peter.pdf)
-* [[PingCAP-Meetup-SH-5.26]沪江数据库转型之路.pdf](doc/[PingCAP-Meetup-SH-5.26]沪江数据库转型之路.pdf)
-* [[PingCAP-Meetup-SH-5.26]TiDB在易果集团的应用.pdf](doc/[PingCAP-Meetup-SH-5.26]TiDB在易果集团的应用.pdf)
-* [[PingCAP-Meetup-SH-5.26]TiDB在Ping++金融聚合支付下的实践0526.pdf](doc/[PingCAP-Meetup-SH-5.26]TiDB在Ping++金融聚合支付下的实践0526.pdf)
-* [[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf](doc/[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf)
-* [PingCAP---TiDB&TiKV-Introduction-OLTP.pdf](doc/PingCAP---TiDB&TiKV-Introduction-OLTP.pdf)
 
 # 区块链
 * [区块链技术指南.pdf](doc/区块链技术指南.pdf)
@@ -83,6 +77,17 @@ IT technical related e-books and PPT information, continuous updating.
 * [微服务学习笔记.pdf](doc/微服务学习笔记.pdf)
 * [深入理解Neutron-OpenStack网络实现.pdf](doc/深入理解Neutron-OpenStack网络实现.pdf)
 * [使用SpringCloud与Docker实战微服务.pdf](doc/使用SpringCloud与Docker实战微服务.pdf)
+
+# Docker
+* [《基于云平台的-Docker-多租户安全》.pdf](doc/《基于云平台的-Docker-多租户安全》.pdf)
+* [Continuous_Integration_and_Deployment_with_Rancher_and_Docker.pdf](doc/Continuous_Integration_and_Deployment_with_Rancher_and_Docker.pdf)
+* [Docker技术入门与实战-[杨保华，戴王剑，曹亚仑编著][机械工业出版社][2015.01][299页].pdf](doc/Docker技术入门与实战-[杨保华，戴王剑，曹亚仑编著][机械工业出版社][2015.01][299页].pdf)
+* [第一本Docker书-澳特恩布尔著-P236.pdf](doc/第一本Docker书-澳特恩布尔著-P236.pdf)
+* [Docker入门白皮书.pdf](doc/Docker入门白皮书.pdf)
+* [深入Docker的资源管理.pdf](doc/深入Docker的资源管理.pdf)
+* [使用Docker建立Mysql集群.pdf](doc/使用Docker建立Mysql集群.pdf)
+* [Docker-应用：如何设计超大规模容器调度系统.pdf](doc/Docker-应用：如何设计超大规模容器调度系统.pdf)
+* [Ceph分布式存储实战.pdf](doc/Ceph分布式存储实战.pdf)
 
 # 分布式事务
 * [[分布式事务]支付宝分布式事务设计草案.doc](doc/[[分布式事务]]支付宝分布式事务设计草案.doc)
