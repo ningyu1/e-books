@@ -207,6 +207,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [Jinja2英文文档.pdf](doc/Jinja2英文文档.pdf)
 * [廖雪峰Python3教程.pdf](doc/廖雪峰Python3教程.pdf)
 * [廖雪峰Python2.7教程.pdf](doc/廖雪峰Python2.7教程.pdf)
+* [Django官方教程翻译项目.pdf](doc/Django官方教程翻译项目.pdf)
 
 # Spring
 * [Spring_MVC_4.2.4_RELEASE_中文文档.pdf](doc/Spring_MVC_4.2.4_RELEASE_中文文档.pdf)
