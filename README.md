@@ -20,6 +20,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [中国HBase技术社区第3届-MeetUp-杭州站_HBase技术交流分享-范欣欣.pptx](doc/中国HBase技术社区第3届-MeetUp-杭州站_HBase技术交流分享-范欣欣.pptx)
 * [中国HBase技术社区第3届-MeetUp-杭州站_云HBase冷存储介绍V3.pdf](doc/中国HBase技术社区第3届-MeetUp-杭州站_云HBase冷存储介绍V3.pdf)
 * [中国HBase技术社区第3届-MeetUp-杭州站_HBase在风控系统应用和高可用实践.pptx](doc/中国HBase技术社区第3届-MeetUp-杭州站_HBase在风控系统应用和高可用实践.pptx)
+* [中国HBase技术社区第4届-MeetUp-上海站_基于HBase实时数仓探索实践.pptx](doc/中国HBase技术社区第4届-MeetUp-上海站_基于HBase实时数仓探索实践.pptx)
+* [中国HBase技术社区第4届-MeetUp-上海站_携程HBase实践.pptx](doc/中国HBase技术社区第4届-MeetUp-上海站_携程HBase实践.pptx)
 
 # PingCAP-TiDB
 * [[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf](doc/[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf)
