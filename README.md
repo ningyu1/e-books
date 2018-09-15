@@ -90,6 +90,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [使用Docker建立Mysql集群.pdf](doc/使用Docker建立Mysql集群.pdf)
 * [Docker-应用：如何设计超大规模容器调度系统.pdf](doc/Docker-应用：如何设计超大规模容器调度系统.pdf)
 * [Ceph分布式存储实战.pdf](doc/Ceph分布式存储实战.pdf)
+* [docker官方文档_v1.6_中文翻译.pdf](doc/docker官方文档_v1.6_中文翻译.pdf)
 
 # 分布式事务
 * [[分布式事务]支付宝分布式事务设计草案.doc](doc/[[分布式事务]]支付宝分布式事务设计草案.doc)
@@ -286,6 +287,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [Play框架中文文档.pdf](doc/Play框架中文文档.pdf)
 * [ELK_Stack_中文指南.pdf](doc/ELK_Stack_中文指南.pdf)
 * [Web远程调试工具_Weinre入门手册.pdf](doc/Weinre入门手册.pdf)
+* [Selenium_IDE_官方文档翻译.pdf](doc/Selenium_IDE_官方文档翻译.pdf)
 
 # Markdown
 * [Markdown入门参考.pdf](doc/Markdown入门参考.pdf)
