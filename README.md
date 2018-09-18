@@ -305,4 +305,6 @@ IT technical related e-books and PPT information, continuous updating.
 * [http2_explained_英文.pdf](doc/http2_explained_英文.pdf)
 * [97_Things_Every_Programmer_Should_Know_英文.pdf](doc/97_Things_Every_Programmer_Should_Know_英文.pdf)
 * [Open_Graphics_Library_OpenGL_教程.pdf](doc/OpenGL教程.pdf)
+* [How_to_be_a_Programmer_中文版.pdf](doc/How_to_be_a_Programmer_中文版.pdf)
+* [把时间当作朋友.pdf](doc/把时间当作朋友.pdf)
 
