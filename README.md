@@ -1,6 +1,12 @@
 IT technical related e-books and PPT information, continuous updating.
 
 # Aliware_Open_Source
+* [Aliware_Open_Source_北京站_PPT_Apache RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache RocketMQ_101_刘振东.pdf)
+* [Aliware_Open_Source_北京站_PPT_Practices_for_Protecting_Apache_RocketMQ_with_Sentinel_in_Alibaba_子矜.pdf](doc/Aliware_Open_Source_北京站_PPT_Practices_for_Protecting_Apache_RocketMQ_with_Sentinel_in_Alibaba_子矜.pdf)
+* [Aliware_Open_Source_北京站_PPT_How_to_build_Messaging_Infrastructure_using_Apache_RocketMQ_江海挺.pdf](doc/Aliware_Open_Source_北京站_PPT_How_to_build_Messaging_Infrastructure_using_Apache_RocketMQ_江海挺.pdf)
+* [Aliware_Open_Source_北京站_PPT_Secret_of_Eventual_Consistency_in_Apache_RocketMQ_with_No_Budget_杜恒.pdf](doc/Aliware_Open_Source_北京站_PPT_Secret_of_Eventual_Consistency_in_Apache_RocketMQ_with_No_Budget_杜恒.pdf)
+* [Aliware_Open_Source_北京站_PPT_MQTT_Bridge_for_Apache_RocketMQ_Final_肖宗阳.pdf](doc/Aliware_Open_Source_北京站_PPT_MQTT_Bridge_for_Apache_RocketMQ_Final_肖宗阳.pdf)
+* [Aliware_Open_Source_北京站_PPT_Stream_Processing_with_Apache_RocketMQ_王鑫.pdf](doc/Aliware_Open_Source_北京站_PPT_Stream_Processing_with_Apache_RocketMQ_王鑫.pdf)
 * [Aliware_Open_Source_成都站_PPT_朱勇_千臂_How_to_Involve_in_Dubbo_Community.pdf](doc/Aliware_Open_Source_成都站_PPT_朱勇_千臂_How_to_Involve_in_Dubbo_Community.pdf)
 * [Aliware_Open_Source_成都站_PPT_邢学超_于怀_Nacos0.2发布计划.pdf](doc/Aliware_Open_Source_成都站_PPT_邢学超_于怀_Nacos0.2发布计划.pdf)
 * [Aliware_Open_Source_成都站_PPT_李云_至简_Dubbo_Mesh_Service_Mesh实践与探索.pdf](doc/Aliware_Open_Source_成都站_PPT_李云_至简_Dubbo_Mesh_Service_Mesh实践与探索.pdf)
@@ -127,7 +133,9 @@ IT technical related e-books and PPT information, continuous updating.
 * [nodejs中文文档.pdf](doc/nodejs中文文档.pdf)
 * [解读node.js-api文档.pdf](doc/解读node.js-api文档.pdf)
 * [七天学会NodeJS.pdf](doc/七天学会NodeJS.pdf)
-* [学习AngularJS-1.x.pdf](doc/学习AngularJS-1.x.pdf)
+
+
+# JavaScript
 * [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
 * [你不懂JS：ES6与未来.pdf](doc/你不懂JS：ES6与未来.pdf)
 * [你不懂JS：this与对象原型.pdf](doc/你不懂JS：this与对象原型.pdf)
@@ -136,7 +144,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [你不懂JS：异步与性能.pdf](doc/你不懂JS：异步与性能.pdf)
 * [你不懂JS：作用域与闭.pdf](doc/你不懂JS：作用域与闭.pdf)
 * [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
-* [VuePress中文-英文文档.pdf](doc/VuePress中文-英文文档.pdf)
+* [廖雪峰JavaScript教程.pdf](doc/廖雪峰JavaScript教程.pdf)
 
 # 前端
 * [前端工程师手册.pdf](doc/前端工程师手册.pdf)
@@ -149,7 +157,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [Hprose_for_HTML5用户手册.pdf](doc/Hprose_for_HTML5用户手册.pdf)
 * [李炎恢HTML_CSS教程.pdf](doc/李炎恢HTML_CSS教程.pdf)
 * [Highcharts_Highstock_Highmaps使用教程.pdf](doc/Highcharts_Highstock_Highmaps使用教程.pdf)
-* [廖雪峰JavaScript教程.pdf](doc/廖雪峰JavaScript教程.pdf)
+* [学习AngularJS-1.x.pdf](doc/学习AngularJS-1.x.pdf)
+* [VuePress中文-英文文档.pdf](doc/VuePress中文-英文文档.pdf)
 
 # 前后端分离
 * [蘑菇街前后端分离实践.pdf](doc/蘑菇街前后端分离实践.pdf)
