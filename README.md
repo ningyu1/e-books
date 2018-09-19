@@ -1,4 +1,5 @@
-qu IT technical related e-books and PPT information, continuous updating.
+IT technical related e-books and PPT information, continuous updating.
+For those in need, Keep real, peace and love.
 
 # Aliware_Open_Source
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
