@@ -305,6 +305,7 @@ For those in need, Keep real, peace and love.
 * [markdown_to_ebook_英文.pdf](doc/markdown_to_ebook_英文.pdf)
 * [Markdown简单的世界.pdf](doc/Markdown简单的世界.pdf)
 * [Markdown简明语法教程.pdf](doc/Markdown简明语法教程.pdf)
+* [SublimeText3官方文档_中文.pdf](doc/SublimeText3官方文档_中文.pdf)
 
 # 其他
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
