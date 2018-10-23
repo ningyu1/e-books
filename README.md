@@ -10,6 +10,9 @@ For those in need, Keep real, peace and love.
 	* [后移动互联网时代的技术思考与实践](#qconsh2018_5)
 	* [大规模基础设施DevOps探索](#qconsh2018_6)
 	* [硅谷人工智能](#qconsh2018_7)
+	* [面向企业级应用的场景AI](#qconsh2018_8)
+	* [Java生态与创新](#qconsh2018_9)
+	* [大数据系统架构](#qconsh2018_10)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -95,6 +98,23 @@ For those in need, Keep real, peace and love.
 ## <span id="qconsh2018_7">硅谷人工智能</span>
 * [人工智能在Uber的外卖服务_Uber_Eats_中的应用.pdf](doc/人工智能在Uber的外卖服务_Uber_Eats_中的应用.pdf)
 * [半监督学习加速AI产业数据标注流程.pdf](doc/半监督学习加速AI产业数据标注流程.pdf)
+
+## <span id="qconsh2018_8">面向企业级应用的场景AI</span>
+* [爱奇艺视频人物识别技术及应用.pdf](doc/爱奇艺视频人物识别技术及应用.pdf)
+* [人机交互式机器翻译研究及应用.pdf](doc/人机交互式机器翻译研究及应用.pdf)
+* [人脸识别应用与优化.pdf](doc/人脸识别应用与优化.pdf)
+
+## <span id="qconsh2018_9">Java生态与创新</span>
+* [使用Eclipse_Vert.x开发响应式应用_英文.pdf](doc/使用Eclipse_Vert.x开发响应式应用_英文.pdf)
+* [从HTTP性能基准测试谈Vert.x高性能的秘密：从JIT编译到网络优化_英文.pdf](doc/从HTTP性能基准测试谈Vert.x高性能的秘密：从JIT编译到网络优化_英文.pdf)
+* [DubboMesh——ServiceMesh的本质、价值与应用探索.pdf](doc/DubboMesh——ServiceMesh的本质、价值与应用探索.pdf)
+
+## <span id="qconsh2018_10">大数据系统架构</span>
+* [构建现代化数仓将MPP_DBMS迁移至Spark.pdf](doc/构建现代化数仓将MPP_DBMS迁移至Spark.pdf)
+* [Project_Pravega_支持streaming和实时分析的存储平台.pdf](doc/Project_Pravega_支持streaming和实时分析的存储平台.pdf)
+* [从0到1构建企业大数据体系.pdf](doc/从0到1构建企业大数据体系.pdf)
+* [百度新一代流式计算系统DStream3.pdf](doc/百度新一代流式计算系统DStream3.pdf)
+* [如何突破腾讯大数据分析架构瓶颈.pdf](doc/如何突破腾讯大数据分析架构瓶颈.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
