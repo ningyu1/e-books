@@ -19,6 +19,9 @@ For those in need, Keep real, peace and love.
 	* [微服务实践2.0](#qconsh2018_14)
 	* [数据与内容中台](#qconsh2018_15)
 	* [面向研发的DevOps实践加速](#qconsh2018_16)
+	* [研发效率提升](#qconsh2018_17)
+	* [运维新挑战](#qconsh2018_18)
+	* [从工业大数据到智能制造](#qconsh2018_19)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -155,6 +158,23 @@ For those in need, Keep real, peace and love.
 ## <span id="qconsh2018_16">面向研发的DevOps实践加速</span>
 * [PayPal持续交付体系的演变.pdf](doc/PayPal持续交付体系的演变.pdf)
 * [DevCloud_on_DevCloud从1月1次到1天10次发布的实践分享.pdf](doc/DevCloud_on_DevCloud从1月1次到1天10次发布的实践分享.pdf)
+
+## <span id="qconsh2018_17">研发效率提升</span>
+* [基于大数据的软件研发度量：从理念到实践.pdf](doc/基于大数据的软件研发度量：从理念到实践.pdf)
+* [如何打造7乘24H持续交付通道.pdf](doc/如何打造7乘24H持续交付通道.pdf)
+* [从硅谷到中关村到底有什么差别：以Data_Driven_Ownership组建高效团队.pdf](doc/从硅谷到中关村到底有什么差别：以Data_Driven_Ownership组建高效团队.pdf)
+* [五星级软件工程师的高效秘诀.pdf](doc/五星级软件工程师的高效秘诀.pdf)
+
+## <span id="qconsh2018_18">运维新挑战</span>
+* [阿里搜索中台在DevOps和AIOps的思考及实践.pdf](doc/阿里搜索中台在DevOps和AIOps的思考及实践.pdf)
+* [百度信息流产品动态降级以及故障自愈实践.pdf](doc/百度信息流产品动态降级以及故障自愈实践.pdf)
+* [苏宁大企业级立体式监控的构建.pdf](doc/苏宁大企业级立体式监控的构建.pdf)
+* [从OpenStack到Kubernetes云平台日志监控的新挑战.pdf](doc/从OpenStack到Kubernetes云平台日志监控的新挑战.pdf)
+* [随手记统一监控平台架构演进实践.pdf](doc/随手记统一监控平台架构演进实践.pdf)
+* [自动化运维加速无人车产品化.pdf](doc/自动化运维加速无人车产品化.pdf)
+
+## <span id="qconsh2018_19">从工业大数据到智能制造</span>
+* [工业大数据在智能制造中的应用.pdf](doc/工业大数据在智能制造中的应用.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
