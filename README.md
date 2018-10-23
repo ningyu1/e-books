@@ -13,6 +13,12 @@ For those in need, Keep real, peace and love.
 	* [面向企业级应用的场景AI](#qconsh2018_8)
 	* [Java生态与创新](#qconsh2018_9)
 	* [大数据系统架构](#qconsh2018_10)
+	* [区块链和金融技术](#qconsh2018_11)
+	* [前端新趋势](#qconsh2018_12)
+	* [深度学习技术与应用](#qconsh2018_13)
+	* [微服务实践2.0](#qconsh2018_14)
+	* [数据与内容中台](#qconsh2018_15)
+	* [面向研发的DevOps实践加速](#qconsh2018_16)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -115,6 +121,40 @@ For those in need, Keep real, peace and love.
 * [从0到1构建企业大数据体系.pdf](doc/从0到1构建企业大数据体系.pdf)
 * [百度新一代流式计算系统DStream3.pdf](doc/百度新一代流式计算系统DStream3.pdf)
 * [如何突破腾讯大数据分析架构瓶颈.pdf](doc/如何突破腾讯大数据分析架构瓶颈.pdf)
+
+## <span id="qconsh2018_11">区块链和金融技术</span>
+* [基于NEO区块链的专家网络应用实践.pdf](doc/基于NEO区块链的专家网络应用实践.pdf)
+* [区块链在物流领域的应用及展望.pdf](doc/区块链在物流领域的应用及展望.pdf)
+* [万亿级交易量下的苏宁支付平台设计.pdf](doc/万亿级交易量下的苏宁支付平台设计.pdf)
+
+## <span id="qconsh2018_12">前端新趋势</span>
+* [使用Rekit开发可扩展的前端应用.pdf](doc/使用Rekit开发可扩展的前端应用.pdf)
+* [为什么前端工程师更应该掌握区块链DApp开发.pdf](doc/为什么前端工程师更应该掌握区块链DApp开发.pdf)
+* [蚂蚁亿级金融业务的前端实践.pdf](doc/蚂蚁亿级金融业务的前端实践.pdf)
+* [WebAssembly领进门及未来发展.pdf](doc/WebAssembly领进门及未来发展.pdf)
+* [搜索组件化的探索与实践.pdf](doc/搜索组件化的探索与实践.pdf)
+* [每人一个远程Fiddler，抹平各端调试差异—Nohost.pdf](doc/每人一个远程Fiddler，抹平各端调试差异—Nohost.pdf)
+
+## <span id="qconsh2018_13">深度学习技术与应用</span>
+* [深度学习在推荐系统的进展及在微博的应用.pdf](doc/深度学习在推荐系统的进展及在微博的应用.pdf)
+* [让商业没有语言障碍-深度学习在阿里机器翻译的应用.pdf](doc/让商业没有语言障碍-深度学习在阿里机器翻译的应用.pdf)
+* [讯飞AI广告平台机器学习算法演进之路.pdf](doc/讯飞AI广告平台机器学习算法演进之路.pdf)
+
+## <span id="qconsh2018_14">微服务实践2.0</span>
+* [从0到3000万用户微服务架构演变历程.pdf](doc/从0到3000万用户微服务架构演变历程.pdf)
+* [巧房微服务架构实战.pdf](doc/巧房微服务架构实战.pdf)
+* [拍拍贷消息中间件的架构演进.pdf](doc/拍拍贷消息中间件的架构演进.pdf)
+* [异地多活单元化架构下的微服务体系.pdf](doc/异地多活单元化架构下的微服务体系.pdf)
+* [自动驾驶系统微服务化架构实践.pdf](doc/自动驾驶系统微服务化架构实践.pdf)
+* [喜马拉雅服务化演进之路.pdf](doc/喜马拉雅服务化演进之路.pdf)
+* [从微服务到Serverless 架构应用与实践.pdf](doc/从微服务到Serverless 架构应用与实践.pdf)
+
+## <span id="qconsh2018_15">数据与内容中台</span>
+* [新型内容流服务架构方式.pdf](doc/新型内容流服务架构方式.pdf)
+
+## <span id="qconsh2018_16">面向研发的DevOps实践加速</span>
+* [PayPal持续交付体系的演变.pdf](doc/PayPal持续交付体系的演变.pdf)
+* [DevCloud_on_DevCloud从1月1次到1天10次发布的实践分享.pdf](doc/DevCloud_on_DevCloud从1月1次到1天10次发布的实践分享.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
