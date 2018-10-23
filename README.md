@@ -22,6 +22,9 @@ For those in need, Keep real, peace and love.
 	* [研发效率提升](#qconsh2018_17)
 	* [运维新挑战](#qconsh2018_18)
 	* [从工业大数据到智能制造](#qconsh2018_19)
+	* [机器学习、AI平台架构实战](#qconsh2018_20)
+	* [主题演讲](#qconsh2018_21)
+	* [容器云与Service Mesh](#qconsh2018_22)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -175,6 +178,24 @@ For those in need, Keep real, peace and love.
 
 ## <span id="qconsh2018_19">从工业大数据到智能制造</span>
 * [工业大数据在智能制造中的应用.pdf](doc/工业大数据在智能制造中的应用.pdf)
+
+## <span id="qconsh2018_20">机器学习、AI平台架构实战</span>
+* [爱奇艺深度学习云平台的实践及优化.pdf](doc/爱奇艺深度学习云平台的实践及优化.pdf)
+* [PayPal高可用在线AI计算平台.pdf](doc/PayPal高可用在线AI计算平台.pdf)
+* [端侧AI及其在蚂蚁金服场景的落地.pdf](doc/端侧AI及其在蚂蚁金服场景的落地.pdf)
+
+## <span id="qconsh2018_21">主题演讲</span>
+* [构建JavaAPI的艺术：Do's_and_Don'ts_英文.pdf](doc/构建JavaAPI的艺术：Do's_and_Don'ts_英文.pdf)
+* [QCon的正确参会姿势.pdf](doc/QCon的正确参会姿势.pdf)
+* [The_past_present_and_future_of_Go_英文.pdf](doc/The_past_present_and_future_of_Go_英文.pdf)
+* [腾讯微服务架构的过去、现在与未来.pdf](doc/腾讯微服务架构的过去、现在与未来.pdf)
+* [把内容交付这件事做好.pdf](doc/把内容交付这件事做好.pdf)
+
+## <span id="qconsh2018_22">容器云与Service Mesh</span>
+* [长路漫漫踏歌而行：蚂蚁金服Service_Mesh实践探索.pdf](doc/长路漫漫踏歌而行：蚂蚁金服Service_Mesh实践探索.pdf)
+* [携程容器云弹性能力构建之路.pdf](doc/携程容器云弹性能力构建之路.pdf)
+* [阿里统一调度系统Sigma策略与算法.pdf](doc/阿里统一调度系统Sigma策略与算法.pdf)
+* [大规模检索系统的容器配额调度策略调优.pdf](doc/大规模检索系统的容器配额调度策略调优.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
