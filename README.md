@@ -25,6 +25,14 @@ For those in need, Keep real, peace and love.
 	* [机器学习、AI平台架构实战](#qconsh2018_20)
 	* [主题演讲](#qconsh2018_21)
 	* [容器云与Service Mesh](#qconsh2018_22)
+	* [人工智能与深度学习实践_解决方案专场](#qconsh2018_23)
+	* [前沿应用与创新_解决方案专场](#qconsh2018_24)
+	* [大数据应用与架构_解决方案专场](#qconsh2018_25)
+	* [云原生和微服务_解决方案专场](#qconsh2018_26)
+	* [架构与基础设施](#qconsh2018_27)
+	* [长演讲小专题](#qconsh2018_28)
+	* [硅谷技术](#qconsh2018_29)
+	* [AWS_DevDay-精解智能化时代下的技术创新与前沿应用_厂商专场](#qconsh2018_30)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -196,6 +204,38 @@ For those in need, Keep real, peace and love.
 * [携程容器云弹性能力构建之路.pdf](doc/携程容器云弹性能力构建之路.pdf)
 * [阿里统一调度系统Sigma策略与算法.pdf](doc/阿里统一调度系统Sigma策略与算法.pdf)
 * [大规模检索系统的容器配额调度策略调优.pdf](doc/大规模检索系统的容器配额调度策略调优.pdf)
+
+## <span id="qconsh2018_23">人工智能与深度学习实践(解决方案专场)</span>
+* [深度学习平台助力亿万级别内容审核系统.pdf](doc/深度学习平台助力亿万级别内容审核系统.pdf)
+* [物流干线车货匹配推荐调度系统.pdf](doc/物流干线车货匹配推荐调度系统.pdf)
+
+## <span id="qconsh2018_24">前沿应用与创新（解决方案专场）</span>
+* [七牛边缘存储的演进之路.pdf](doc/七牛边缘存储的演进之路.pdf)
+* [面向大规模研发的自动化持续交付及发布.pdf](doc/面向大规模研发的自动化持续交付及发布.pdf)
+
+## <span id="qconsh2018_25">大数据应用与架构（解决方案专场）</span>
+* [B端大数据应用的架构实践与思考.pd](doc/B端大数据应用的架构实践与思考.pd)
+* [图数据库应用案例解析.pdf](doc/图数据库应用案例解析.pdf)
+* [腾讯信鸽海量移动推送服务构建.pdf](doc/腾讯信鸽海量移动推送服务构建.pdf)
+
+## <span id="qconsh2018_26">云原生和微服务（解决方案专场）</span>
+* [前隆科技微服务实践的那些事.pdf](doc/前隆科技微服务实践的那些事.pdf)
+
+## <span id="qconsh2018_27">架构与基础设施</span>
+* [如何快速打造高稳定千亿级别对象存储平台.pdf](doc/如何快速打造高稳定千亿级别对象存储平台.pdf)
+* [百度商业运营技术团队的Cloud-Native实践.pdf](doc/百度商业运营技术团队的Cloud-Native实践.pdf)
+* [Apache RocketMQ事务消息演进之路.pdf](doc/Apache RocketMQ事务消息演进之路.pdf)
+* [美团容器技术研发实践.pdf](doc/美团容器技术研发实践.pdf)
+
+## <span id="qconsh2018_28">长演讲小专题</span>
+* [Practical_Go_上.pdf](doc/Practical_Go_上.pdf)
+
+## <span id="qconsh2018_29">硅谷技术</span>
+* [增长黑客——工作在Airbnb和Facebook的经历.pdf](doc/增长黑客——工作在Airbnb和Facebook的经历.pdf)
+
+## <span id="qconsh2018_30">AWS DevDay - 精解智能化时代下的技术创新与前沿应用（厂商专场）</span>
+* [基于无服务器的架构落地与实践.pdf](doc/基于无服务器的架构落地与实践.pdf)
+* [基于Kubernetes落地化的思考与实践.pdf](doc/基于Kubernetes落地化的思考与实践.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
