@@ -2,6 +2,11 @@ IT technical related e-books and PPT information, continuous updating.
 For those in need, Keep real, peace and love.
 
 # 目录
+* [QCon上海2018](#qconsh2018)
+	* [产品经理必修之用户细分与产品定位](#qconsh2018_1)
+	* [工程师个人成长与技术领导力](#qconsh2018_2)
+	* [国际化互联网业务架构](#qconsh2018_3)
+	* [互联网高可用架构](#qconsh2018_4)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -44,6 +49,32 @@ For those in need, Keep real, peace and love.
 * [其他](#其他)
 
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+
+# <span id="qconsh2018">QCon上海2018</span>
+
+## <span id="qconsh2018_1">产品经理必修之用户细分与产品定位</span>
+* [创业产品必须迈过的鸿沟——Product_Market_Fit.pdf](doc/创业产品必须迈过的鸿沟——Product_Market_Fit.pdf)
+* [垂直领域的空间与机会.pdf](doc/垂直领域的空间与机会.pdf)
+* [知彼先要知己_如何做好B端产品定位.pdf](doc/知彼先要知己_如何做好B端产品定位.pdf)
+
+## <span id="qconsh2018_2">工程师个人成长与技术领导力</span>
+* [51信用卡6年上市背后我在技术团队的成长历程.pdf](doc/51信用卡6年上市背后我在技术团队的成长历程.pdf)
+* [向前一步——从女码农到技术Leader的忐忑之路.pdf](doc/向前一步——从女码农到技术Leader的忐忑之路.pdf)
+* [转型技术管理者初期阶段的三大挑战.pdf](doc/转型技术管理者初期阶段的三大挑战.pdf)
+* [从心开始——谈谈技术管理.pdf](doc/从心开始——谈谈技术管理.pdf)
+
+## <span id="qconsh2018_3">国际化互联网业务架构</span>
+* [如何让全球用户爱上你.pdf](doc/如何让全球用户爱上你.pdf)
+* [小米网海外电商架构演进.pdf](doc/小米网海外电商架构演进.pdf)
+
+## <span id="qconsh2018_4">互联网高可用架构</span>
+* [智能风控SaaS服务高可用演进之路.pdf](doc/智能风控SaaS服务高可用演进之路.pdf)
+* [PayPal在线风控平台技术优化实践.pdf](doc/PayPal在线风控平台技术优化实践.pdf)
+* [配置中心_让微服务更『智能』.pdf](doc/配置中心_让微服务更『智能』.pdf)
+* [微服务插件容器国际化_灵活应对合资业务架构出海.pdf](doc/微服务插件容器国际化_灵活应对合资业务架构出海.pdf)
+* [VI_应用随身小助手.pdf](doc/VI_应用随身小助手.pdf)
+* [高性能消息数据存储引擎的设计解析.pdf](doc/高性能消息数据存储引擎的设计解析.pdf)
+* [美团点评监控体系建设.pdf](doc/美团点评监控体系建设.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
