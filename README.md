@@ -7,6 +7,9 @@ For those in need, Keep real, peace and love.
 	* [工程师个人成长与技术领导力](#qconsh2018_2)
 	* [国际化互联网业务架构](#qconsh2018_3)
 	* [互联网高可用架构](#qconsh2018_4)
+	* [后移动互联网时代的技术思考与实践](#qconsh2018_5)
+	* [大规模基础设施DevOps探索](#qconsh2018_6)
+	* [硅谷人工智能](#qconsh2018_7)
 * [Aliware_Open_Source](#aliware_open_source)
 * [中国HBase技术社区](#中国hbase技术社区)
 * [PingCAP-TiDB](#pingcap-tidb)
@@ -75,6 +78,23 @@ For those in need, Keep real, peace and love.
 * [VI_应用随身小助手.pdf](doc/VI_应用随身小助手.pdf)
 * [高性能消息数据存储引擎的设计解析.pdf](doc/高性能消息数据存储引擎的设计解析.pdf)
 * [美团点评监控体系建设.pdf](doc/美团点评监控体系建设.pdf)
+
+## <span id="qconsh2018_5">后移动互联网时代的技术思考与实践</span>
+* [新微视短视频之路上的技术挑战及应对.pdf](doc/新微视短视频之路上的技术挑战及应对.pdf)
+* [淘宝端智能探索和实践.pdf](doc/淘宝端智能探索和实践.pdf)
+* [基于Flutter_Dart的全栈开发.pdf](doc/基于Flutter_Dart的全栈开发.pdf)
+* [携程无线技术平台化研发实践.pdf](doc/携程无线技术平台化研发实践.pdf)
+* [打造稳定、灵活、高效的运营配置平台.pdf](doc/打造稳定、灵活、高效的运营配置平台.pdf)
+* [爱奇艺页面动态化组件方案的演进.pdf](doc/爱奇艺页面动态化组件方案的演进.pdf)
+
+## <span id="qconsh2018_6">大规模基础设施DevOps探索</span>
+* [Uber如何结合DevOps理念来加速网络基础设施建设的自动化进程.pdf](doc/Uber如何结合DevOps理念来加速网络基础设施建设的自动化进程.pdf)
+* [下一代大数据实时监控系统.pdf](doc/下一代大数据实时监控系统.pdf)
+* [浅谈Kafka_Streams在实时跟踪和监控系统中的应用.pdf](doc/浅谈Kafka_Streams在实时跟踪和监控系统中的应用.pdf)
+
+## <span id="qconsh2018_7">硅谷人工智能</span>
+* [人工智能在Uber的外卖服务_Uber_Eats_中的应用.pdf](doc/人工智能在Uber的外卖服务_Uber_Eats_中的应用.pdf)
+* [半监督学习加速AI产业数据标注流程.pdf](doc/半监督学习加速AI产业数据标注流程.pdf)
 
 # <span id="aliware_open_source">Aliware_Open_Source</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
