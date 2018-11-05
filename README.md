@@ -2,6 +2,7 @@ IT technical related e-books and PPT information, continuous updating.
 For those in need, Keep real, peace and love.
 
 # 目录
+* [行业信息](#hangye)
 * [QCon上海2018](#qconsh2018)
 	* [产品经理必修之用户细分与产品定位](#qconsh2018_1)
 	* [工程师个人成长与技术领导力](#qconsh2018_2)
@@ -75,6 +76,10 @@ For those in need, Keep real, peace and love.
 * [其他](#其他)
 
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+
+# <span id="hangye">行业信息</span>
+* [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
+* [2018年新零售行业研究报告.pdf](doc/2018年新零售行业研究报告.pdf)
 
 # <span id="qconsh2018">QCon上海2018</span>
 
@@ -328,6 +333,7 @@ For those in need, Keep real, peace and love.
 
 # <span id = "cncf云原生云计算">CNCF(云原生云计算)</span> 
 * [CloudNativeLandscape_v0.9.5_cncf.pdf](doc/CloudNativeLandscape_v0.9.5_cncf.pdf)
+* [百度云存储架构经验分享.pdf](doc/百度云存储架构经验分享.pdf)
 
 # <span id = "docker">Docker</span> 
 * [《基于云平台的-Docker-多租户安全》.pdf](doc/《基于云平台的-Docker-多租户安全》.pdf)
@@ -576,7 +582,6 @@ For those in need, Keep real, peace and love.
 # <span id = "其他">其他</span>
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
 * [《当你的团队还支撑不起梦想时》.pdf](doc/《当你的团队还支撑不起梦想时》.pdf)
-* [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
 * [知识共享协议FAQ非官方翻译.pdf](doc/知识共享协议FAQ非官方翻译.pdf)
 * [WordPress_The_Right_Way_多语版.pdf](doc/WordPress_The_Right_Way_多语版.pdf)
 * [http2_explained_英文.pdf](doc/http2_explained_英文.pdf)
