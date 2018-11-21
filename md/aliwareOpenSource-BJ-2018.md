@@ -1,6 +1,4 @@
-* [AliwareOpenSource北京2018-PPT合集](#md/aliwareOpenSource-BJ-2018.md)
-
-# <span id="aliware_open_source">Aliware_Open_Source</span>
+# <span id="aliware_open_source">AliwareOpenSource北京2018-PPT合集</span>
 * [Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf](doc/Aliware_Open_Source_北京站_PPT_Apache_RocketMQ_101_刘振东.pdf)
 * [Aliware_Open_Source_北京站_PPT_Practices_for_Protecting_Apache_RocketMQ_with_Sentinel_in_Alibaba_子矜.pdf](doc/Aliware_Open_Source_北京站_PPT_Practices_for_Protecting_Apache_RocketMQ_with_Sentinel_in_Alibaba_子矜.pdf)
 * [Aliware_Open_Source_北京站_PPT_How_to_build_Messaging_Infrastructure_using_Apache_RocketMQ_江海挺.pdf](doc/Aliware_Open_Source_北京站_PPT_How_to_build_Messaging_Infrastructure_using_Apache_RocketMQ_江海挺.pdf)
