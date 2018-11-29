@@ -6,8 +6,8 @@ For those in need, Keep real, peace and love.
 * [CNUTCon上海2018-PPT合集](md/cnutcon2018.md)
 * [QCon上海2018-PPT合集](md/qconsh2018.md)
 * [AliwareOpenSource北京2018-PPT合集](md/aliwareOpenSource-BJ-2018.md)
-* [中国HBase技术社区](#中国hbase技术社区)
-* [PingCAP-TiDB](#pingcap-tidb)
+* [中国HBase技术社区](md/hbase-group-meetup.md)
+* [PingCAP-Meetup-TiDB](md/pingcap-meetup.md)
 * [架构实践](#架构实践)
 * [区块链](#区块链)
 * [AI](#ai)
@@ -51,26 +51,6 @@ For those in need, Keep real, peace and love.
 # <span id="hangye">行业信息</span>
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
 * [2018年新零售行业研究报告.pdf](doc/2018年新零售行业研究报告.pdf)
-
-# <span id = "中国hbase技术社区">中国HBase技术社区</span>
-* [中国HBase技术社区第3届-MeetUp-杭州站_HBase技术交流分享-范欣欣.pptx](doc/hbase_group_meetup/中国HBase技术社区第3届-MeetUp-杭州站_HBase技术交流分享-范欣欣.pptx)
-* [中国HBase技术社区第3届-MeetUp-杭州站_云HBase冷存储介绍V3.pdf](doc/hbase_group_meetup/中国HBase技术社区第3届-MeetUp-杭州站_云HBase冷存储介绍V3.pdf)
-* [中国HBase技术社区第3届-MeetUp-杭州站_HBase在风控系统应用和高可用实践.pptx](doc/hbase_group_meetup/中国HBase技术社区第3届-MeetUp-杭州站_HBase在风控系统应用和高可用实践.pptx)
-* [中国HBase技术社区第4届-MeetUp-上海站_基于HBase实时数仓探索实践.pptx](doc/hbase_group_meetup/中国HBase技术社区第4届-MeetUp-上海站_基于HBase实时数仓探索实践.pptx)
-* [中国HBase技术社区第4届-MeetUp-上海站_携程HBase实践.pptx](doc/hbase_group_meetup/中国HBase技术社区第4届-MeetUp-上海站_携程HBase实践.pptx)
-* [中国HBase技术社区第七届-MeetUp-成都站-HBase2.0重新定义小对象实时存取](doc/hbase_group_meetup/中国HBase技术社区第七届-MeetUp-成都站-HBase2.0重新定义小对象实时存取.pdf)
-* [中国HBase技术社区第七届-MeetUp-成都站-HBase在爱奇艺的应用实践](doc/hbase_group_meetup/中国HBase技术社区第七届-MeetUp-成都站-HBase在爱奇艺的应用实践.pdf)
-* [中国HBase技术社区第七届-MeetUp-成都站-HBase在车联网中的实践与应用](doc/hbase_group_meetup/中国HBase技术社区第七届-MeetUp-成都站-HBase在车联网中的实践与应用.pdf)
-
-# <span id = "pingcap-tidb">PingCAP-TiDB</span>
-* [[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf](doc/[PingCAP-Meetup-SH-5.26]上海电信微信营业厅-TiDB-实践-v-1.6.pdf)
-* [[PingCAP-Meetup-SH-5.26]Using-MySQL-Distributed-Database-Architectures-Peter.pdf](doc/[PingCAP-Meetup-SH-5.26]Using-MySQL-Distributed-Database-Architectures-Peter.pdf)
-* [[PingCAP-Meetup-SH-5.26]沪江数据库转型之路.pdf](doc/[PingCAP-Meetup-SH-5.26]沪江数据库转型之路.pdf)
-* [[PingCAP-Meetup-SH-5.26]TiDB在易果集团的应用.pdf](doc/[PingCAP-Meetup-SH-5.26]TiDB在易果集团的应用.pdf)
-* [[PingCAP-Meetup-SH-5.26]TiDB在Ping++金融聚合支付下的实践0526.pdf](doc/[PingCAP-Meetup-SH-5.26]TiDB在Ping++金融聚合支付下的实践0526.pdf)
-* [[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf](doc/[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf)
-* [PingCAP---TiDB&TiKV-Introduction-OLTP.pdf](doc/PingCAP---TiDB&TiKV-Introduction-OLTP.pdf)
-* [TiDB中文技术文档.pdf](doc/TiDB中文技术文档.pdf)
 
 # <span id = "架构实践">架构实践</span>
 * [唯品会供应链技术架构的实践.pdf](doc/唯品会供应链技术架构的实践.pdf)
