@@ -7,3 +7,5 @@
 * [[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf](doc/pingcap/[PingCAP-Meetup-SH-5.26]How-to-build-a-‘self-driving’-database.pdf)
 * [PingCAP---TiDB&TiKV-Introduction-OLTP.pdf](doc/pingcap/PingCAP---TiDB&TiKV-Introduction-OLTP.pdf)
 * [TiDB中文技术文档.pdf](doc/pingcap/TiDB中文技术文档.pdf)
+* [PingCAP-Infra-Meetup-82-韩飞-discovering-statistical-properties-for-query-optimization](doc/pingcap/PingCAP-Infra-Meetup-82-韩飞-discovering-statistical-properties-for-query-optimization.pdf)
+* [PingCAP-Infra-Meeutp-申砾-82-What-is-New-TiDB](doc/pingcap/PingCAP-Infra-Meeutp-申砾-82-What-is-New-TiDB.pdf)
