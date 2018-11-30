@@ -49,6 +49,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [大数据时代.pdf](doc/大数据时代.pdf)
 * [《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf](doc/《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf)
 * [面向程序员的数据挖掘指南.pdf](doc/面向程序员的数据挖掘指南.pdf)
+* [Elasticsearch服务器开发（第2版）.pdf](Elasticsearch服务器开发（第2版）.pdf)
+* [Elasticsearch权威指南（中文版）.pdf](Elasticsearch权威指南（中文版）.pdf)
 
 # 微服务 && CNCF
 * [构建微服务体系下的全链路监控系统.pdf](doc/构建微服务体系下的全链路监控系统.pdf)
@@ -85,6 +87,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [《经典SQL优化实例剖析》公开课PPT.pdf](doc/《经典SQL优化实例剖析》公开课PPT.pdf)
 * [MySQL技术内幕-第4版.pdf](doc/MySQL技术内幕-第4版.pdf)
 * [MySQL高可用-多种方案.pdf](doc/MySQL高可用-多种方案.pdf)
+* [Mysql Group Replication官方文档译文.pdf](doc/Mysql Group Replication官方文档译文.pdf)
 
 # Node.js && 前端
 * [探究-Node.js-的服务端之路.pdf](doc/探究-Node.js-的服务端之路.pdf)
@@ -111,6 +114,8 @@ IT technical related e-books and PPT information, continuous updating.
 * [你不懂JS：异步与性能.pdf](doc/你不懂JS：异步与性能.pdf)
 * [你不懂JS：作用域与闭.pdf](doc/你不懂JS：作用域与闭.pdf)
 * [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
+* [JavaScript正则表达式迷你书.pdf](doc/JavaScript正则表达式迷你书.pdf)
+* [es6.pdf](doc/es6.pdf)
 
 
 # 前后端分离
@@ -118,6 +123,14 @@ IT technical related e-books and PPT information, continuous updating.
 * [蘑菇街前后端分离实践.pdf](doc/蘑菇街前后端分离实践.pdf)
 * [支付宝无线：从前端到后端的服务治理.pdf](doc/支付宝无线：从前端到后端的服务治理.pdf)
 * [Google-内部是如何实施大规模前端项目的.pdf](doc/Google-内部是如何实施大规模前端项目的.pdf)
+
+# HTTP
+* [HTTP权威指南.pdf](doc/HTTP权威指南.pdf)
+
+# 工具
+* [IntelliJ IDEA 使用教程 - v1.0.pdf](doc/IntelliJ IDEA 使用教程 - v1.0.pdf)
+* [maven权威指南.pdf](doc/maven权威指南.pdf)
+
 
 # 移动端
 * [MIP移动页面加速器的架构与原理.pdf](doc/MIP移动页面加速器的架构与原理.pdf)
@@ -171,6 +184,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [Java多线程编程实战指南-设计模式篇.pdf](doc/Java多线程编程实战指南-设计模式篇.pdf)
 * [nio.pdf](doc/nio.pdf)
 * [Netty实战.pdf](doc/Netty实战.pdf)
+* [线程详解.pdf](doc/线程详解.pdf)
 * [《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf](doc/《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf)
 * [Java特种兵.pdf](doc/Java特种兵.pdf)
 * [设计模式Java版本.pdf](doc/设计模式Java版本.pdf)
