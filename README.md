@@ -116,6 +116,7 @@ IT technical related e-books and PPT information, continuous updating.
 * [阮一峰JavaScript教程.pdf](doc/阮一峰JavaScript教程.pdf)
 * [JavaScript正则表达式迷你书.pdf](doc/JavaScript正则表达式迷你书.pdf)
 * [es6.pdf](doc/es6.pdf)
+* [Node.js实战_MarcWandschneider_扫描版_带索引书签目录.pdf](doc/Node.js实战_MarcWandschneider_扫描版_带索引书签目录.pdf)
 
 
 # 前后端分离
@@ -127,9 +128,16 @@ IT technical related e-books and PPT information, continuous updating.
 # HTTP
 * [HTTP权威指南.pdf](doc/HTTP权威指南.pdf)
 
+# Linux
+* [Linux与UNIX Shell编程指南_带书签.pdf](doc/Linux与UNIX Shell编程指南_带书签.pdf)
+
+# C
+* [Lua中文手册.pdf](doc/Lua中文手册.pdf)
+
 # 工具
 * [IntelliJ IDEA 使用教程 - v1.0.pdf](doc/IntelliJ IDEA 使用教程 - v1.0.pdf)
 * [maven权威指南.pdf](doc/maven权威指南.pdf)
+* [Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf](doc/Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf)
 
 
 # 移动端
@@ -185,6 +193,12 @@ IT technical related e-books and PPT information, continuous updating.
 * [nio.pdf](doc/nio.pdf)
 * [Netty实战.pdf](doc/Netty实战.pdf)
 * [线程详解.pdf](doc/线程详解.pdf)
+* [AOP的实现机制.pdf](doc/AOP的实现机制.pdf)
+* [如何用Netty写一个自己的RPC框架.pdf](doc/如何用Netty写一个自己的RPC框架.pdf)
+* [网络IO框架 - Netty v1.3.pdf](doc/网络IO框架 - Netty v1.3.pdf)
+* [设计模式可复用面向对象软件基础_带索引书签目录.pdf](doc/设计模式可复用面向对象软件基础_带索引书签目录.pdf)
+* [走向分布式.pdf](doc/走向分布式.pdf)
+* [重构_改善既有代码的设计_扫描版_带书签.pdf](doc/重构_改善既有代码的设计_扫描版_带书签.pdf)
 * [《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf](doc/《Java程序性能优化-让你的Java程序更快、更稳定》-葛一宁等编著.pdf)
 * [Java特种兵.pdf](doc/Java特种兵.pdf)
 * [设计模式Java版本.pdf](doc/设计模式Java版本.pdf)
@@ -217,4 +231,5 @@ IT technical related e-books and PPT information, continuous updating.
 * [《当你的团队还支撑不起梦想时》.pdf](doc/《当你的团队还支撑不起梦想时》.pdf)
 * [2016年互联网全行业洞察及趋势报告.pdf](doc/2016年互联网全行业洞察及趋势报告.pdf)
 * [知识共享协议FAQ非官方翻译.pdf](doc/知识共享协议FAQ非官方翻译.pdf)
+* [一步步搭建物联网系统.pdf](doc/一步步搭建物联网系统.pdf)
 
