@@ -23,3 +23,10 @@
 * [Aliware_Open_Source_深圳站_PPT_微众银行陈广胜_Building_a_Messaging_Service_with_Apache_RocketMQ.pdf](/doc/Aliware_Open_Source_深圳站_PPT_微众银行陈广胜_Building_a_Messaging_Service_with_Apache_RocketMQ.pdf)
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴王鑫_Stream_Processing_with_Apache_RocketMQ.pdf](/doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴王鑫_Stream_Processing_with_Apache_RocketMQ.pdf)
 * [Aliware_Open_Source_深圳站_PPT_阿里巴巴陈志轩_Dubbo开源现状与2.7规划.pdf](/doc/Aliware_Open_Source_深圳站_PPT_阿里巴巴陈志轩_Dubbo开源现状与2.7规划.pdf)
+
+# <span id="aliware_open_source">Aliware-OpenSource杭州2018-PPT合集</span>
+* [Apache_RocketMQ_101_刘振东_V3_Final.pdf](/doc/aliware_open_source/Apache_RocketMQ_101_刘振东_V3_Final.pdf)
+* [Apache_RocketMQ_2018_Meetup_杭州](/doc/aliware_open_source/Apache_RocketMQ_2018_Meetup_杭州.pdf)
+* [Multilingual_evolution_of_RocketMQ_丁磊](/doc/aliware_open_source/Multilingual_evolution_of_RocketMQ_丁磊.pdf)
+* [Rocketmq_Operator_谐云科技_魏欢](/doc/aliware_open_source/Rocketmq_Operator_谐云科技_魏欢.pdf)
+* [RocketMQ在同程艺龙的应用实践_查江](/doc/aliware_open_source/RocketMQ在同程艺龙的应用实践_查江.pdf)
