@@ -22,6 +22,8 @@ For those in need, Keep real, peace and love.
 * [JavaScript](#javascript)
 * [前端](#前端)
 * [前后端分离](#前后端分离)
+* [HTTP](#HTTP)
+* [C](#C)
 * [移动端](#移动端)
 * [安全](#安全)
 * [Redis](#redis)
@@ -198,12 +200,6 @@ For those in need, Keep real, peace and love.
 # <span id = "C">C</span>
 * [Lua中文手册.pdf](doc/Lua中文手册.pdf)
 
-# <span id = "工具">工具</span>
-* [IntelliJ IDEA 使用教程 - v1.0.pdf](doc/IntelliJ IDEA 使用教程 - v1.0.pdf)
-* [maven权威指南.pdf](doc/maven权威指南.pdf)
-* [Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf](doc/Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf)
-
-
 # <span id = "移动端">移动端</span>
 * [MIP移动页面加速器的架构与原理.pdf](doc/MIP移动页面加速器的架构与原理.pdf)
 * [Elide英文文档.pdf](doc/Elide英文文档.pdf)
@@ -378,6 +374,9 @@ For those in need, Keep real, peace and love.
 * [Web远程调试工具_Weinre入门手册.pdf](doc/Weinre入门手册.pdf)
 * [Selenium_IDE_官方文档翻译.pdf](doc/Selenium_IDE_官方文档翻译.pdf)
 * [github开源贡献指南中文版本.pdf](doc/github开源贡献指南中文版本.pdf)
+* [IntelliJ IDEA 使用教程 - v1.0.pdf](doc/IntelliJ IDEA 使用教程 - v1.0.pdf)
+* [maven权威指南.pdf](doc/maven权威指南.pdf)
+* [Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf](doc/Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf)
 
 # <span id = "其他">其他</span>
 * [架构师-2017年6月.pdf](doc/架构师-2017年6月.pdf)
