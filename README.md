@@ -9,6 +9,7 @@ For those in need, Keep real, peace and love.
 * [中国HBase技术社区](md/hbase-group-meetup.md)
 * [PingCAP-Meetup-TiDB](md/pingcap-meetup.md)
 * [Dubbo-Meetup](md/dubbo-meetup.md)
+* [2018美团技术年货](md/meituan2018.md)
 * [架构实践](#架构实践)
 * [区块链](#区块链)
 * [AI](#ai)
