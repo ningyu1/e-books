@@ -6,4 +6,4 @@
 * [鸟哥的Linux私房菜：基础学习篇_第四版.pdf](/doc/鸟哥的Linux私房菜：基础学习篇_第四版.pdf)
 * [全端工程师修炼手册.pdf](/doc/全端工程师修炼手册.pdf)
 * [Linux工具快速教程.pdf](/doc/Linux工具快速教程.pdf)
-* [Linux与UNIX Shell编程指南_带书签.pdf](/doc/Linux与UNIX Shell编程指南_带书签.pdf)
+* [Linux与UNIX Shell编程指南_带书签.pdf](/doc/Linux与UNIX-Shell编程指南_带书签.pdf)

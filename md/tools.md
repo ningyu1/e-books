@@ -8,7 +8,7 @@
 * [Web远程调试工具_Weinre入门手册.pdf](/doc/Weinre入门手册.pdf)
 * [Selenium_IDE_官方文档翻译.pdf](/doc/Selenium_IDE_官方文档翻译.pdf)
 * [github开源贡献指南中文版本.pdf](/doc/github开源贡献指南中文版本.pdf)
-* [IntelliJ IDEA 使用教程 - v1.0.pdf](/doc/IntelliJ IDEA 使用教程 - v1.0.pdf)
+* [IntelliJ IDEA 使用教程 - v1.0.pdf](/doc/IntelliJ-IDEA-使用教程-v1.0.pdf)
 * [maven权威指南.pdf](/doc/maven权威指南.pdf)
 * [Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf](/doc/Zabbix企业级分布式监控系统吴兆松著完整十六章带书签pdf.pdf)
 * [WordPress_The_Right_Way_多语版.pdf](/doc/WordPress_The_Right_Way_多语版.pdf)
