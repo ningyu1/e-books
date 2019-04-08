@@ -56,7 +56,7 @@
 * [蚂蚁金服SOFAMesh在多语言问题上的探索实践](/doc/cnutcon2018/蚂蚁金服SOFAMesh在多语言问题上的探索实践.pdf)
 
 ## <span id="cnutcon2018_10">Kubernetes实战</span>
-* [Kubernetes Operator实践-MySQL容器化](/doc/cnutcon2018/Kubernetes Operator实践-MySQL容器化.pdf)
+* [Kubernetes Operator实践-MySQL容器化](/doc/cnutcon2018/Kubernetes-Operator实践-MySQL容器化.pdf)
 * [基于CSI的Kubernetes存储插件开发实践](/doc/cnutcon2018/基于CSI的Kubernetes存储插件开发实践.pdf)
 
 ## <span id="cnutcon2018_11">SRE实践与思考</span>
