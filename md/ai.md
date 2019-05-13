@@ -4,3 +4,4 @@
 * [机器学习实战_Machine_Learning_in_Action.pdf](/doc/机器学习实战_Machine_Learning_in_Action.pdf)
 * [TensorFlow官方文档中文版.pdf](/doc/TensorFlow官方文档中文版.pdf)
 * [TensorFlow正式版中文文档.pdf](/doc/TensorFlow正式版中文文档.pdf)
+* [HBase不睡觉书_带目录_高清.zip](/doc/HBase不睡觉书_带目录_高清.zip)
