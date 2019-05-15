@@ -6,3 +6,4 @@
 * [MySQL技术内幕-第4版.pdf](/doc/MySQL技术内幕-第4版.pdf)
 * [MySQL高可用-多种方案.pdf](/doc/MySQL高可用-多种方案.pdf)
 * [Mysql Group Replication官方文档译文.pdf](/doc/Mysql-Group-Replication官方文档译文.pdf)
+* [mycat-definitive-guide.pdf](/doc/mycat-definitive-guide.pdf)

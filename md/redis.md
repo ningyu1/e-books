@@ -6,3 +6,4 @@
 * [StackExchange.Redis文档翻译.pdf](/doc/StackExchange.Redis文档翻译.pdf)
 * [Redis开发运维实践指南.pdf](/doc/Redis开发运维实践指南.pdf)
 * [The-Little-Redis-Book中文版.pdf](/doc/The-Little-Redis-Book中文版.pdf)
+* [RedissonCachev2.pdf](/doc/RedissonCachev2.pdf)
