@@ -29,6 +29,7 @@
 	* [长演讲小专题](#qconsh2018_28)
 	* [硅谷技术](#qconsh2018_29)
 	* [AWS_DevDay-精解智能化时代下的技术创新与前沿应用_厂商专场](#qconsh2018_30)
+	* [Apache Dubbo 开源现状与未来规划](https://github.com/ningyu1/awesome-dubbo/blob/master/slides/qcon2018/dubbo-present-and-future.pdf)
 
 # <span id="qconsh2018">QCon上海2018</span>
 
