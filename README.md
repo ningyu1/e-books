@@ -1,12 +1,12 @@
 IT technical related e-books and PPT information, continuous updating.
 For those in need, Keep real, peace and love.
 
-疫情环境下最热门的技术话题就是《远程办公》，2020年是悲痛的一年，也是远程办公的元年，这里整理了大佬们分享的远程办公哲学与方法，欢迎大家阅读。
+疫情环境下最热门的技术话题就是《远程办公》，2020年是悲痛的一年，也是远程办公的元年，这里整理了大佬们分享的远程办公哲学与方法，欢迎大家阅读，持续更新。
 
 让我们一起在家高效远程办公，既不给国家增加负担，也可以给公司减轻负担。
 
 # 目录
-* [远程办公](md/telecommuting.md)
+* [远程办公](md/telecommuting.md)<img src="//img.alicdn.com/tfs/TB1td1qB5rpK1RjSZFhXXXSdXXa-60-30.png" alt="new" style="content: '';width: 30px;height: 16px;background-size: contain;display: inline-block;vertical-align: middle;margin-left: 5px;" />
 * [行业信息](md/hangye.md)
 * [CNUTCon上海2018-PPT合集](md/cnutcon2018.md)
 * [QCon上海2018-PPT合集](md/qconsh2018.md)
