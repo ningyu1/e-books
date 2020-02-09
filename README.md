@@ -6,7 +6,7 @@ For those in need, Keep real, peace and love.
 让我们一起在家高效远程办公，既不给国家增加负担，也可以给公司减轻负担。
 
 # 目录
-* [远程办公](md/telecommuting.md)<img src="icon/new.png" alt="new" style="content: '';width: 30px;height: 16px;background-size: contain;display: inline-block;vertical-align: middle;margin-left: 5px;" />
+* [远程办公](md/telecommuting.md)<img src="icon/new.png" alt="new" width="30" height="16" style="content: '';width: 30px;height: 16px;background-size: contain;display: inline-block;vertical-align: middle;margin-left: 5px;" />
 * [行业信息](md/hangye.md)
 * [CNUTCon上海2018-PPT合集](md/cnutcon2018.md)
 * [QCon上海2018-PPT合集](md/qconsh2018.md)
