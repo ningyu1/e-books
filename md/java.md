@@ -1,4 +1,5 @@
 # <span id = "java">Java</span>
+* [Java高手-代码篇.pdf](/doc/java/Java高手-代码篇.pdf)
 * [阿里巴巴Java开发手册v1.2.0.pdf](/doc/阿里巴巴Java开发手册v1.2.0.pdf)
 * [Java-并发编程实战-中文版.pdf](/doc/Java-并发编程实战-中文版.pdf)
 * [Java多线程编程实战指南-设计模式篇.pdf](/doc/Java多线程编程实战指南-设计模式篇.pdf)
