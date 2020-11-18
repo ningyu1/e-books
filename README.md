@@ -17,7 +17,7 @@ For those in need, Keep real, peace and love.
 * [PingCAP-Meetup-TiDB](md/pingcap-meetup.md)
 * [Dubbo-Meetup](md/dubbo-meetup.md)
 ## 实践
-* * [架构实践](md/architectural-practice.md)
+* [架构实践](md/architectural-practice.md)
 * [2018美团技术年货](md/meituan2018.md)
 ## 云原生
 * [微服务](md/micro-service.md)
@@ -25,6 +25,8 @@ For those in need, Keep real, peace and love.
 * [Docker](md/docker.md)
 * [分布式事务](md/distributed-transaction.md)
 * [算法](md/algorithm.md)
+## DevOps
+* [DevOps实践](md/devops.md)
 ## 大数据
 * [中国HBase技术社区](md/hbase-group-meetup.md)
 * [大数据](md/bigdata.md)
