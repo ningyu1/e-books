@@ -24,7 +24,6 @@ For those in need, Keep real, peace and love.
 * [CNCF-云原生云计算](md/cncf.md)
 * [Docker](md/docker.md)
 * [分布式事务](md/distributed-transaction.md)
-* [算法](md/algorithm.md)
 ## DevOps
 * [DevOps](md/devops.md)
 ## 大数据
@@ -33,6 +32,7 @@ For those in need, Keep real, peace and love.
 ## AI
 * [AI](md/ai.md)
 ## 技术
+* [算法](md/algorithm.md)
 * [区块链](md/block-chain.md)
 * [Mysql](md/mysql.md)
 * [Node.js](md/nodejs.md)
