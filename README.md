@@ -26,7 +26,7 @@ For those in need, Keep real, peace and love.
 * [分布式事务](md/distributed-transaction.md)
 * [算法](md/algorithm.md)
 ## DevOps
-* [DevOps实践](md/devops.md)
+* [DevOps](md/devops.md)
 ## 大数据
 * [中国HBase技术社区](md/hbase-group-meetup.md)
 * [大数据](md/bigdata.md)
