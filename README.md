@@ -30,7 +30,7 @@ For those in need, Keep real, peace and love.
 * [中国HBase技术社区](md/hbase-group-meetup.md)
 * [大数据](md/bigdata.md)
 ## AI
-* [AI](md/ai.md)
+* [AI&机器学习](md/ai.md)
 ## 技术
 * [算法](md/algorithm.md)
 * [区块链](md/block-chain.md)
