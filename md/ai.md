@@ -1,4 +1,5 @@
 # <span id = "ai">AI&机器学习</span>
+* [机器学习在LBS中的应用-周海鹏.pdf](/doc/ai/机器学习在LBS中的应用-周海鹏.pdf)
 * [大规模机器学习在LinkedIn预测模型中的应用.pdf](/doc/ai/大规模机器学习在LinkedIn预测模型中的应用.pdf)
 * [AI-Front-201803-1522647735580.pdf](/doc/AI-Front-201803-1522647735580.pdf)
 * [神经网络与深度学习.pdf](/doc/神经网络与深度学习.pdf)
