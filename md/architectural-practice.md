@@ -1,4 +1,5 @@
 # <span id = "架构实践">架构实践</span>
+* [架构师在多元架构下的挑战与机遇-姜胜.pdf](/doc/architecturalPractice/架构师在多元架构下的挑战与机遇-姜胜.pdf)
 * [高性能的软件定义存储系统的架构设计.pdf](/doc/architecturalPractice/高性能的软件定义存储系统的架构设计.pdf)
 * [唯品会供应链技术架构的实践.pdf](/doc/唯品会供应链技术架构的实践.pdf)
 * [途牛供应链系统的架构演进.pdf](/doc/途牛供应链系统的架构演进.pdf)
