@@ -1,4 +1,5 @@
 # <span id = "架构实践">架构实践</span>
+* [数美科技全栈式实时反欺诈-数美科技梁堃.pdf](/doc/architecturalPractice/数美科技全栈式实时反欺诈-数美科技梁堃.pdf)
 * [京东物流仓储数据分发平台架构实践及挑战-江龙飞.pdf](/doc/architecturalPractice/京东物流仓储数据分发平台架构实践及挑战-江龙飞.pdf)
 * [架构师在多元架构下的挑战与机遇-姜胜.pdf](/doc/architecturalPractice/架构师在多元架构下的挑战与机遇-姜胜.pdf)
 * [高性能的软件定义存储系统的架构设计.pdf](/doc/architecturalPractice/高性能的软件定义存储系统的架构设计.pdf)
