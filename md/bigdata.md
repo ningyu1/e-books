@@ -1,4 +1,5 @@
 # <span id = "大数据">大数据</span>
+* [TDengine专为物联网优化设计的大数据平台.pdf](/doc/bigdata/TDengine专为物联网优化设计的大数据平台.pdf)
 * [下一代大数据实时监控系统-李双江.pdf](/doc/bigdata/下一代大数据实时监控系统-李双江.pdf)
 * [大数据时代.pdf](/doc/大数据时代.pdf)
 * [《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf](/doc/《如何通过-APP+Wi-Fi-数据给企业做大数据精准用户画像》.pdf)
