@@ -20,6 +20,7 @@ For those in need, Keep real, peace and love.
 * [架构实践](md/architectural-practice.md)
 * [2018美团技术年货](md/meituan2018.md)
 * [供应链](md/scm.md)
+* [团队管理](md/management.md)
 ## 云原生
 * [微服务](md/micro-service.md)
 * [CNCF-云原生云计算](md/cncf.md)
