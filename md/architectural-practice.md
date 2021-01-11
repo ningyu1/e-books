@@ -1,4 +1,5 @@
 # <span id = "架构实践">架构实践</span>
+* [Shopee数据事件中心的设计和实现-林锋.pdf](/doc/architecturalPractice/Shopee数据事件中心的设计和实现-林锋.pdf)
 * [俞天翔-快手游戏直播Web站-工程进化之路.pdf](/doc/architecturalPractice/俞天翔-快手游戏直播Web站-工程进化之路.pdf)
 * [搜索商业化的技术变革历程-杨逍.pdf](/doc/architecturalPractice/搜索商业化的技术变革历程-杨逍.pdf)
 * [数美科技全栈式实时反欺诈-数美科技梁堃.pdf](/doc/architecturalPractice/数美科技全栈式实时反欺诈-数美科技梁堃.pdf)
