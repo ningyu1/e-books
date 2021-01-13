@@ -1,4 +1,5 @@
 # <span id = "mysql">MySQL</span>
+* [谈谈MYSQL那点事.ppt](/doc/谈谈MYSQL那点事.ppt)
 * [高性能Mysql.pdf](/doc/高性能Mysql.pdf)
 * [深入浅出MySQL全文.pdf](/doc/深入浅出MySQL全文.pdf)
 * [MySQL性能调优与架构设计.pdf](/doc/MySQL性能调优与架构设计.pdf)
